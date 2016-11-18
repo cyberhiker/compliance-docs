@@ -8,7 +8,9 @@ This Policy establishes the basis for implementing secure access control practic
 The purpose of this policy is to ensure that [Company] establishes requirements for a comprehensive program for developing, implementing and maintaining relevant information to support system and information integrity objectives and security posture of the organization
 
 ## 2. Scope of Policy
-This policy applies to all users, systems, networks, components, services and processes in or accessing the [Company] Production environment, and all services, applications and products in General Availability.  This includes cloud infrastructure components, leveraged services and other elements used to deliver [Company] products and services.
+This policy applies to all users, systems, networks, components, services and processes in or accessing the [System Name]. This includes cloud infrastructure components, leveraged services and other elements used to deliver CSF.
+
+This policy is written to include the following:
 
 Please see the [Company] Governance Policy for further information on Management Commitment, Compliance and Enforcement, Review & Update processes, and Penalties.
 
@@ -103,4 +105,3 @@ Wireless access shall employ cryptography to protect session confidentiality and
 * [Company] must review the proposed content of publicly accessible information for nonpublic information prior to posting onto the information system
 * [Company] must review the content on the publicly accessible organizational information system for nonpublic information at least quarterly
 * [Company] must remove nonpublic information from the publicly accessible organizational information system, if discovered.
-

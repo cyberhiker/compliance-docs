@@ -1,7 +1,7 @@
-# [Company] Audit and Accountability Management Policy
+# [Company Name] Audit and Accountability Management Policy
 
 ## 1. Purpose of Policy
-This Policy establishes the basis for implementing Audit and Accountability Management control practices for protecting information systems and data within [System Name].
+This Policy establishes the basis for implementing Audit and Accountability Management control practices for protecting information systems and data within [Company Name] [System Name].
 
 Audit and accountability applies to maintaining an accurate audit trail of events, which may be used to provide a historical record of events for applicable network devices, systems, and applications.
 
@@ -20,7 +20,7 @@ This policy is written to include the following:
 *	Audit Records Retention
 *	Audit Generation
 
-Please see the [Company] Governance Policy for further information on Management Commitment, Compliance and Enforcement, Review & Update processes, and Penalties.
+Please see the [Company Name] Governance Policy for further information on Management Commitment, Compliance and Enforcement, Review & Update processes, and Penalties.
 
 ## 3. Roles and Responsibilities
 |Roles                         |Responsibilities                                               |
@@ -30,15 +30,15 @@ Please see the [Company] Governance Policy for further information on Management
 |Director of Compliance        | Owner of the Policy. Ensuring the Policy meets the compliance requirements.|
 
 ## 4. Policy
-The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, and [Company] policies and standards.
+The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, International Organization for Standards (ISO) and [Company] policies and standards.
 
 ### 4.1 Auditable Events
-* [Company] defines the list of events the information system must be capable of auditing based on a risk assessment and mission/business needs.
+* [Company Name] defines the list of events the information system must be capable of auditing based on a risk assessment and mission/business needs.
  * Events include: Successful and unsuccessful account logon events, account management events, object access, policy change, privilege functions, process tracking, and system events.
- * Events for Web applications inlcude: all administrator activity, authentication checks, authorization checks, data deletions, data access, data changes, and permission changes.
+ * Events for Web applications include: all administrator activity, authentication checks, authorization checks, data deletions, data access, data changes, and permission changes.
  * The list of events is reviewed annually or when there are changes in the threat environment.
-* [Company] coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and help guide the selection of auditable events.
-* Security Engineering will be responsible for researching and working with cross-functional teams to implement a centrally managed framework with the capability of collecting information from integrated target sources and indexing data in a centralized location. This framework will provide reasonable control as to prevent rotation or manipulation of the collected log data [Company] will provide a rationale for why the list of auditable events are deemed to be adequate to support after-the-fact investigations of security incidents
+* [Company Name] coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and help guide the selection of auditable events.
+* Security Engineering will be responsible for researching and working with cross-functional teams to implement a centrally managed framework with the capability of collecting information from integrated target sources and indexing data in a centralized location. This framework will provide reasonable control as to prevent rotation or manipulation of the collected log data [Company Name] will provide a rationale for why the list of auditable events are deemed to be adequate to support after-the-fact investigations of security incidents
 * [System Name] provides the capability to compile audit records from multiple components throughout the system into a system wide, time-correlated audit trail.
 * [System Name] provides the capability to manage the selection of events to be audited by individual components of the system.
 
@@ -54,38 +54,36 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [System Name] provide the capability to manage the content of audit records generated by individual components throughout the system.
 
 ### 4.4 Audit Storage Capacity
-* [Company] ensures the allocation of sufficient audit record storage capacity and configures auditing to prevent such capacity being exceeded.
+* [Company Name] ensures the allocation of sufficient audit record storage capacity and configures auditing to prevent such capacity being exceeded.
 
 ### 4.5 Response to Audit Processing Failures
-* [Company] ensures automated mechanisms are in place to alert the appropriate personnel in the event of an audit failure or audit storage capacity being reached.
+* [Company Name] ensures automated mechanisms are in place to alert the appropriate personnel in the event of an audit failure or audit storage capacity being reached.
 * [System Name] provides a warning when allocated audit record storage volume reaches critical level as defined based on organization requirements (e.g. if the system reaches within 10% of allocated storage).
 
 ### 4.6 Audit Review, Analysis and Reporting
-* [Company] establishes processes for regularly reviewing audit log information, and reporting security issues if discovered. Reviews will occur at a minimum of weekly. These processes are integrated with processes for incident response, in order to ensure standardization and cross-functional collaboration.
-* [Company] employs automated mechanisms to integrate audit monitoring, analysis and reporting into an overall process for investigation and response to suspicious activities.
-* [Company] analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.
+* [Company Name] establishes processes for regularly reviewing audit log information, and reporting security issues if discovered. Reviews will occur at a minimum of weekly. These processes are integrated with processes for incident response, in order to ensure standardization and cross-functional collaboration.
+* [Company Name] employs automated mechanisms to integrate audit monitoring, analysis and reporting into an overall process for investigation and response to suspicious activities.
+* [Company Name] analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.
 
 ### 4.7 Audit Reduction and Report Generation
 * [System Name] provides an audit reduction and report generation capability that supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents.
-* [Company] ensures the original content and time ordering of audit records is not altered.
+* [Company Name] ensures the original content and time ordering of audit records is not altered.
 * [System Name] provides the capability to automatically process audit records for events of interest based upon selectable event criteria.
 
 ### 4.8 Time Stamps
-* [System Name] provides time stamps for use in audit record generation. 
-* [Company] records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) and at least one second granularity of time measurement. 
+* [System Name] provides time stamps for use in audit record generation.
+* [Company Name] records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) and at least one second granularity of time measurement.
 * To ensure the accuracy of the time stamp information, [System Name] compares the internal information system clocks with the authoritative time source at http://tf.nist.gov/tf-cgi/servers.cgi at least hourly and to synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [org defined time period].
-* [Company] selects primary and secondary time servers used by the NIST Internet time service. The secondary server is selected from a different geographic region than the primary server.
+* [Company Name] selects primary and secondary time servers used by the NIST Internet time service. The secondary server is selected from a different geographic region than the primary server.
 
 ### 4.9 Protection of Audit Information
-* [System Name] protects audit information and audit tools from unauthorized access, modification and deletion.  Log backups are stored on a system other than the system being audited. 
+* [System Name] protects audit information and audit tools from unauthorized access, modification and deletion.  Log backups are stored on a system other than the system being audited.
 * Access to the Log Management framework will be relegated to personnel with a demonstrated business need for access by role. Resources who do not have a business justification should not have access.
 
 ### 4.10 Audit Retention
-* [Company] retains audit logs online for a minimum 90 days online and one-year offline, with sufficient capacity as to mitigate the risk of exceeding storage space.
+* [Company Name] retains audit logs online for a minimum 90 days online and one-year offline, with sufficient capacity as to mitigate the risk of exceeding storage space.
 
 ### 4.11 Audit Generation
 * [System Name] provides audit record generation capability for the list of auditable events for its information systems and network services
-* [Company] allows designated organizational personnel to select which auditable events are to be audited by specific components of the system
+* [Company Name] allows designated organizational personnel to select which auditable events are to be audited by specific components of the system
 * [System Name] generates audit records for the list of audited events defined in 4.1 with the content as defined in 4.2.
-
-

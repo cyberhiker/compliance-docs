@@ -6,7 +6,7 @@ This Policy establishes the basis for implementing Identification and Authentica
 Access to [Company Name] computing resources is granted in a manner that carefully balances restrictions designed to prevent unauthorized access against the need to provide unhindered access to informational assets.
 
 ## 2. Scope of Policy
-This policy applies to all users, systems, networks, components, services and processes in or accessing the [Company Name] Production environment, and all services, applications and products in General Availability.  This includes cloud infrastructure components, leveraged services and other elements used to deliver [Company Name] products and services.
+This policy applies to all users, systems, networks, components, services and processes in or accessing the [System Name]. This includes cloud infrastructure components, leveraged services and other elements used to deliver [System Name].
 
 This policy is written to include the following:
 * Identification and Authentication (Organizational Users)
@@ -82,4 +82,3 @@ The access and use of Information Technology (IT) resources shall be in complian
 ### 4.8 Identification and Authentication (Non-Organizational Users)
 * [System Name] uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).
 * Non-organizational users include all information system users other than [Company Name] users explicitly covered by 4.1. Users are uniquely identified and authenticated for all accesses other than those accesses explicitly identified and documented by [Company Name].
-
