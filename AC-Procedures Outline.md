@@ -1,13 +1,29 @@
 # [Company Name] AC Procedures Outline
 ## 1.	Purpose of Procedures
 Procedures are designed to support the requirements from the [Company Name] Policies.  Procedures ensure actions are consistent across the whole team, ensure all steps are completed, and are used as training material for new members.  
-This procedure is written to include the following:
-•	First Procedure
-•	Second Procedure
-•	etc.,
 
 ## 2.	Scope of Procedures
 These Procedures are to be used in support of the [System Name].
+
+This procedure is written to include the following:
+* Customer Procedures
+* [Company Name] Procedures
+  * Account Management
+    * Creating [Company Name] New Hire Account Access
+    * [Company Name] Employees Transfer
+    * [Company Name] Account Modification
+    * [Company Name] Account Termination
+    * Temporary/Emergency Accounts
+  * Access Enforcement
+  * Information Flow Enforcement
+  * Separation of Duties
+    * Users and Roles
+  * Least Privilege
+    * CSF Customer Role-based Access and Data Segregation
+    * CSF Privileged Users
+  * Remote Access
+    * Emergency Access Procedures
+
 Please see the [Company Name] Access Control Policy for further information on the policy requirements.
 
 ## 3.	Customer Procedures
