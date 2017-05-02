@@ -23,8 +23,8 @@ Please see the [Company Name] Configuration Management Policy for further inform
 ### 3.1.	Configuration Management Plan
 #### 3.1.1.	Roles and Responsibilities
 #### 3.1.2.	Baseline Configuration
-##### 3.1.2.1.	The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.
-##### 3.1.2.2.	The organization reviews and updates the baseline configuration of the information system
+The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.
+The organization reviews and updates the baseline configuration of the information system
 #### 3.1.3.	Configuration Change Control
 #### 3.1.4.	Security Impact Analysis
 #### 3.1.5.	Access Restrictions for Change
@@ -32,8 +32,10 @@ Please see the [Company Name] Configuration Management Policy for further inform
 #### 3.1.7.	Least Functionality
 #### 3.1.8.	Information System Component Inventory
 #### 3.1.9.	Configuration items
-##### 3.1.9.1 Identifying configuration items throughout the system development life cycle and managing the configuration of the configuration items
-##### 3.1.9.2 Defines the configuration items for the information system and places the configuration items under configuration management
-#### 3.1.11.	Protects the configuration management plan for unauthorized disclosure and modification.
-#### 3.1.12.	Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution
-#### 3.1.13.	User-Installed Software
+Identifying configuration items throughout the system development life cycle and managing the configuration of the configuration items
+Defines the configuration items for the information system and places the configuration items under configuration management
+#### 3.1.10. Protection
+Protects the configuration management plan for unauthorized disclosure and modification.
+#### 3.1.11. Tracking
+Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution
+#### 3.1.12.	User-Installed Software

@@ -32,10 +32,13 @@ Please see the [Company Name] Governance Policy for further information on Manag
 The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, and [Company Name] policies and standards.
 
 ### 4.1 Identification and Authentication (Organizational Users)
-* All users are required to have unique system accounts created for use on [System Name] including individual, group, system, application accounts
-* [Company Name] establishes conditions for group membership based on business needs and roles
-* [Company Name] identifies authorized users of the information system and specify access privileges
-* All Access is granted based on: (i) a valid access authorization; (ii) intended system usage; and (iii) other attributes as required by the [Company Name] missions/business functions
+* All users are required to have unique system accounts created for use on [System Name] including individual, group, system, application accounts.
+* [Company Name] establishes conditions for group membership based on business needs and roles.
+* [Company Name] identifies authorized users of the information system and specify access privileges.
+* All Access is granted based on:
+  * Valid access authorization
+  * Intended system usage
+  * Other attributes as required by the [Company Name] missions/business functions
 * All system accounts are reviewed at a minimum on an annual basis with periodic reviews when necessary for auditing purposes.
 
 ### 4.2 Device Identification and Authentication
@@ -45,39 +48,39 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.3 Identifier Management
 * [Company Name] manages information system identifiers for users and devices by:
- * Receiving authorization from a designated organizational official to assign a user or device identifier.
- * Selecting an identifier that uniquely identifies an individual or device.
- * Assigning the user identifier to the intended party or the device identifier to the intended device.
- * Preventing reuse of user or device identifiers.
- * Disabling the user identifier after ninety (90) days of inactivity for general user accounts and thirty (30) days for administrator level accounts.
+  * Receiving authorization from a designated organizational official to assign a user or device identifier.
+  * Selecting an identifier that uniquely identifies an individual or device.
+  * Assigning the user identifier to the intended party or the device identifier to the intended device.
+  * Preventing reuse of user or device identifiers.
+  * Disabling the user identifier after ninety (90) days of inactivity for general user accounts and thirty (30) days for administrator level accounts.
 
 ### 4.4 Authenticator Management
 * [Company Name] manages information system authenticators (e.g., tokens, PKI certificates, biometrics, passwords, and key cards) by:
- * Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator
- * Establishing initial authenticator content for authenticators defined by the [Company Name]
- * Minimum length 20 characters
- * At least  1 upper case character
- * At least  1 lower case character
- * At least  1 digit
- * At least  1 special character
-* Ensuring that authenticators have sufficient strength of mechanism for their intended use
-* Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators
-* Changing default content of authenticators prior to information system installation
-* Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators
-* Changing/refreshing authenticators every sixty (60) days for user accounts every ninety (90) days for administrative accounts
-* Protecting authenticator content from unauthorized disclosure and modification
-* Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators
-* Changing authenticators for group/role accounts when membership to those accounts changes
+  * Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator
+  * Establishing initial authenticator content for authenticators defined by the [Company Name]
+  * Minimum length 20 characters
+  * At least  1 upper case character
+  * At least  1 lower case character
+  * At least  1 digit
+  * At least  1 special character
+* Ensuring that authenticators have sufficient strength of mechanism for their intended use.
+* Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators.
+* Changing default content of authenticators prior to information system installation.
+* Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators.
+* Changing/refreshing authenticators every sixty (60) days for user accounts every ninety (90) days for administrative accounts.
+* Protecting authenticator content from unauthorized disclosure and modification.
+* Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators.
+* Changing authenticators for group/role accounts when membership to those accounts changes.
 
 ### 4.5 Authenticator Feedback
 * [System Name] ensures to provide feedback to a user during an attempted authentication and that feedback does not compromise the authentication mechanism.
 
 ### 4.6 Cryptographic Module Authentication
-* [Company Name] ensures information systems implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication
+* [Company Name] ensures information systems implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.
 
 ### 4.7 Identifier Lockout
-* [Company Name] enforces a limit of five (5) consecutive invalid login attempts by a user during a sixty minute (60) time period
-* [System Name] automatically locks the account/node until released by an administrator; delays next login prompt according to five (5) minutes when the maximum number of unsuccessful attempts is exceeded
+* [Company Name] enforces a limit of five (5) consecutive invalid login attempts by a user during a sixty minute (60) time period.
+* [System Name] automatically locks the account/node until released by an administrator; delays next login prompt according to five (5) minutes when the maximum number of unsuccessful attempts is exceeded.
 
 ### 4.8 Identification and Authentication (Non-Organizational Users)
 * [System Name] uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).

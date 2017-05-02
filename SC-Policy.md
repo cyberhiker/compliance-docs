@@ -93,30 +93,30 @@ The access and use of Information Technology (IT) resources shall be in complian
 ### 4.12 Public Key Infrastructure Certificates
 * [Company Name] develops and implements a certificate policy and certification practice statement for the issuance of public key certificates used in the information systems.
 
-### 4.12 Mobile Code
-* [Company Name] establishes usage restrictions and implementation guidance for mobile code technologies based on the potential to cause damage to the information system if used maliciously
+### 4.13 Mobile Code
+* [Company Name] establishes usage restrictions and implementation guidance for mobile code technologies based on the potential to cause damage to the information system if used maliciously.
 * [Company Name] documents, monitors, and controls the use of mobile code within the information system.
 
-### 4.13 Voice over Internet Protocol
-* [Company Name] establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously
+### 4.14 Voice over Internet Protocol
+* [Company Name] establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously.
 * [Company Name] authorizes, monitors, and controls the use of VoIP within the information system if applicable.
 
-### 4.14 Secure Name / Address Resolution Service (Authoritative Source)
-* [Company Name] provides additional data origin authentication and integrity verification artifacts along with the authoritative name resolution data any system returns in response to external name/address resolution queries
+### 4.15 Secure Name / Address Resolution Service (Authoritative Source)
+* [Company Name] provides additional data origin authentication and integrity verification artifacts along with the authoritative name resolution data any system returns in response to external name/address resolution queries.
 * [Company Name] provides the means to indicate the security status of child zones and (if the child supports secure resolution services) to enable verification of a chain of trust among parent and child domains, when operating as part of a distributed, hierarchical namespace.
 * [Company Name] leverages approved DNS services provided by authorized cloud infrastructure providers as needed for its information systems.
 
-### 4.15 Architecture and Provisioning for Name / Address Resolution Service
-* [Company Name] implements name/address resolution using domain name system (DNS) servers that are fault-tolerant and implement internal/external role separation
+### 4.16 Architecture and Provisioning for Name / Address Resolution Service
+* [Company Name] implements name/address resolution using domain name system (DNS) servers that are fault-tolerant and implement internal/external role separation.
 * [Company Name] eliminates single points of failure and enhance redundancy, by implementing multiple authoritative domain name system (DNS) servers or by leveraging approved DNS services from a third party.
 * DNS servers with an internal role only process name/address resolution requests from within the organization (i.e., internal clients). DNS servers with an external role only process name/address resolution information requests from clients external to the organization (i.e., on the external networks including the Internet).
-* The set of clients that can access an authoritative DNS server in a particular role is specified by the [Company Name]
+* The set of clients that can access an authoritative DNS server in a particular role is specified by the [Company Name].
 
-### 4.16 Session Authenticity
-* [System Name] protects the authenticity of communications sessions
+### 4.17 Session Authenticity
+* [System Name] protects the authenticity of communications sessions.
 
-### 4.17 Protection of Information at Rest
-* [System Name] protects the confidentiality and integrity of information at rest by employing cryptographic mechanisms to prevent unauthorized disclosure and modification of information at rest unless otherwise protected by alternative physical measures
+### 4.18 Protection of Information at Rest
+* [System Name] protects the confidentiality and integrity of information at rest by employing cryptographic mechanisms to prevent unauthorized disclosure and modification of information at rest unless otherwise protected by alternative physical measures.
 
-### 4.18 Process Isolation
+### 4.19 Process Isolation
 * [System Name] maintains a separate execution domain for each executing process.

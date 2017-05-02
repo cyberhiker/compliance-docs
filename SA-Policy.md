@@ -34,14 +34,14 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 #### 4.1 Allocation of Resources
 
-* [Company Name] implements a mission/business process planning
-* [Company Name] conducts annual assessment to ensure controls are implemented correctly, operating, and producing the desire artifacts;
-* [Company Name] generates a Security Assessment Report and document the outcome of [annual] assessment; and
+* [Company Name] implements a mission/business process planning.
+* [Company Name] conducts annual assessment to ensure controls are implemented correctly, operating, and producing the desire artifacts.
+* [Company Name] generates a Security Assessment Report and document the outcome of [annual] assessment.
 * [Company Name] establishes a discrete line item for information security in organizational programming and budgeting documentation.  
 
 ### 4.2 Life Cycle Support
-* [Company Name] manages the information system using a system development life cycle methodology that includes information security considerations;
-* [Company Name]defines and document information system security roles and responsibilities throughout the system development life cycle; and
+* [Company Name] manages the information system using a system development life cycle methodology that includes information security considerations.
+* [Company Name]defines and document information system security roles and responsibilities throughout the system development life cycle.
 * [Company Name]identifies individuals having information system security roles and responsibilities.  
 
 ### 4.3 Acquisitions
@@ -78,19 +78,19 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.8 External Information System Services
 * [Company Name] requires external information system providers to comply with [System Name] requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
-* [Company Name] defines and document government oversight and user roles and responsibilities with regards to external information system services
+* [Company Name] defines and document government oversight and user roles and responsibilities with regards to external information system services.
 * [Company Name] monitors security control compliance by external service providers.  
 
 ### 4.9 Developer Configuration Management
 * [Company Name] requires that information system developers/integrators:
- * Perform configuration management during information system design, development, implementation, and operation;
- * Manage and control changes to the information system;
- * Implement only organization-approved changes;
- * Document approved changes to the information system; and
- * Track security flaws and flaw resolution.
+  * Perform configuration management during information system design, development, implementation, and operation;
+  * Manage and control changes to the information system;
+  * Implement only organization-approved changes;
+  * Document approved changes to the information system; and
+  * Track security flaws and flaw resolution.
 
 ### 4.10 Developer Security Testing
-* [Company Name] requires that information system developers/integrators, in consultation with associated security personnel;  
+* [Company Name] requires that information system developers/integrators, in consultation with associated security personnel:  
   * Create and implement a security test and evaluation plan;
-  * Implement a verifiable flaw remediation process to correct weaknesses and deficiencies identified during the security testing and evaluation process; and
-  * Document the results of the security testing/evaluation and flaw remediation processes.  
+  * Implement a verifiable flaw remediation process to correct weaknesses and deficiencies identified during the security testing and evaluation process
+  * Document the results of the security testing/evaluation and flaw remediation processes

@@ -27,21 +27,21 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.1 Security Categorization
 * [Company Name] categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
-* [Company Name] documents the security categorization results (including supporting rationale) in the security plan for the information system; and
+* [Company Name] documents the security categorization results (including supporting rationale) in the security plan for the information system.
 * [Company Name] ensures the security categorization decision is reviewed and approved by the Authorizing Official (AO) or authorizing official designated representative.
 
 ### 4.2 Risk Assessment
-* [Company Name] conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits
-* [Company Name] documents risk assessment results in vulnerability scan reports, security assessment reports, plan of actions and milestones
-* [Company Name] reviews risk assessment results are conducted on a as needed basis
+* [Company Name] conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits.
+* [Company Name] documents risk assessment results in vulnerability scan reports, security assessment reports, plan of actions and milestones.
+* [Company Name] reviews risk assessment results are conducted on a as needed basis.
 * [Company Name] updates the risk assessment annually or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
 
 ### 4.3 Vulnerability Scanning
-* [Company Name] conducts scans for vulnerabilities within information systems and hosted applications on a weekly basis and on-going for continuous monitoring and incident response processes when new vulnerabilities potentially affecting the system/applications are identified and reported
+* [Company Name] conducts scans for vulnerabilities within information systems and hosted applications on a weekly basis and on-going for continuous monitoring and incident response processes when new vulnerabilities potentially affecting the system/applications are identified and reported.
 * [Company Name] employs vulnerability scanning tools and techniques that promote interoperability among tools and automate parts of the vulnerability management process by using standards for:
- * Enumerating platforms, software flaws, and improper configurations;
- * Formatting and making transparent, checklists and test procedures; and
- * Measuring vulnerability impact;
-* [Company Name] analyzes vulnerability scan reports and results from security control assessments
-* [Company Name] conducts remediation on legitimate vulnerabilities (Highs within 30 days, Moderates within 90 days, Lows within 120 days) in accordance with an organizational assessment of risk
+  * Enumerating platforms, software flaws, and improper configurations;
+  * Formatting and making transparent, checklists and test procedures; and
+  * Measuring vulnerability impact;
+* [Company Name] analyzes vulnerability scan reports and results from security control assessments.
+* [Company Name] conducts remediation on legitimate vulnerabilities (Highs within 30 days, Moderates within 90 days, Lows within 120 days) in accordance with an organizational assessment of risk.
 * [Company Name] shares information obtained from the vulnerability scanning process and security control assessments with designated personnel throughout the organization to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).

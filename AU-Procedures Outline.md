@@ -59,6 +59,7 @@ Please see the [Company Name] Audit and Accountability Policy for further inform
 Audit processing failures are identified and alerted through the following support tools:
 * [Tool Name]
 * [Second Tool Name]
+
 If the audit storage capacity has been reached, [Company Name] will stop aggregating the specific event and audit logs from streaming to the [Tool Name] and send out an alert through automated mechanisms [examples] to immediately alert processing failures.
 
 In the event that a local log file capacity is reached, older log entries are removed automatically to allow new entries to be posted, as logs are forwarded to the [Tool Name] centralized log collection tool. Alerts of an audit processing issue or failure are sent to [Team Name] to remediate the issue, which includes:
@@ -103,9 +104,9 @@ The [Audit Tool] User Guide is located at:
 ### 3.5.	Audit Reduction and Report Generation
 ### 3.6.	Protections of Audit Information
 ### 3.7.	Audit Record Retention
-#### 3.7.1.	90 days online
+* 90 days online
 #### 3.7.2.	Nara
-##### 3.7.2.1.	Information technology operations and maintenance records – Keep a minimum of 3 years after agreement, control measures, procedures, project, activity, or transaction is obsolete, completed, terminated, or superseded
-##### 3.7.2.2.	System access records – Keep a minimum of 6 years after a password is altered or user account is terminated.
+* Information technology operations and maintenance records – Keep a minimum of 3 years after agreement, control measures, procedures, project, activity, or transaction is obsolete, completed, terminated, or superseded
+* System access records – Keep a minimum of 6 years after a password is altered or user account is terminated.
 
 ### 3.8.	Audit Generation

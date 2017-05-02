@@ -22,7 +22,8 @@ Please see the [Company Name] Security Awareness and Training Policy for further
 [Company Name] employees complete basic security awareness training as part of initial training for new users, before they are allowed access to the [System Name].  [Company Name] employees also complete the training when required by information system changes, and at least annually thereafter.
 
 #### 3.1.1.	Security Training Development
-Training materials are updated annually.  
+Training materials are updated annually.
+
 The security awareness training covers the basic understanding of the need for information security, required user actions necessary for maintaining a secure IT environment, and the response to suspected security problems and incidents. The security awareness training includes (but is not limited to) the following topics:
 * [Company Name]’s security vision
 * Customer data
@@ -32,7 +33,7 @@ The security awareness training covers the basic understanding of the need for i
 * Laptop security
 * Best practices in identifying phishing attacks
 
-####3.1.2.	Monitoring for Changes
+#### 3.1.2.	Monitoring for Changes
 
 ### 3.2.	Role Based Training
 

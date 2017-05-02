@@ -19,8 +19,8 @@ This procedure is written to include the following:
   * Separation of Duties
     * Users and Roles
   * Least Privilege
-    * CSF Customer Role-based Access and Data Segregation
-    * CSF Privileged Users
+    * [System Name] Customer Role-based Access and Data Segregation
+    * [System Name] Privileged Users
   * Remote Access
     * Emergency Access Procedures
 
@@ -39,7 +39,7 @@ Please see the [Company Name] Access Control Policy for further information on t
 ### 4.4.	Separation of Duties
 #### 4.4.1.	Users and Roles
 ### 4.5.	Least Privilege
-#### 4.5.1.	CSF Customer Role-based Access and Data Segregation
-#### 4.5.2.	CSF Privileged Users
+#### 4.5.1.	[System Name] Customer Role-based Access and Data Segregation
+#### 4.5.2.	[System Name] Privileged Users
 ### 4.6.	Remote Access
 #### 4.6.1.	Emergency Access Procedures

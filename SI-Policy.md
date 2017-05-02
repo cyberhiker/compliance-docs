@@ -42,33 +42,33 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.2 Malicious Code Protection
 * [Company Name] employs malicious code protection mechanisms at information system entry and exit points on the network to detect and eradicate malicious code that is:
- * Transported by electronic mail, electronic mail attachments, web accesses, removable media, or other common means or inserted through the exploitation of information system vulnerabilities.
+  * Transported by electronic mail, electronic mail attachments, web accesses, removable media, or other common means or inserted through the exploitation of information system vulnerabilities.
 * [Company Name] updates malicious code protection mechanisms (including signature definitions) when new releases are available, in accordance with organizational configuration management policy and procedures.
-* [Company Name] implements secure coding practices, configuration management and control, trusted procurement processes, and monitoring practices for additional malicious code protection
+* [Company Name] implements secure coding practices, configuration management and control, trusted procurement processes, and monitoring practices for additional malicious code protection.
 * All malicious code protection mechanisms must be configured to:
- * Perform periodic scans of information systems and real-time scans of files from external sources as the files are downloaded, opened, or executed in accordance with organizational security policy
- * Block malicious code, quarantine malicious code, and send alerts to administrator in response to malicious code detection
+  * Perform periodic scans of information systems and real-time scans of files from external sources as the files are downloaded, opened, or executed in accordance with organizational security policy
+  * Block malicious code, quarantine malicious code, and send alerts to administrator in response to malicious code detection
 * [Company Name] addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 * [Company Name] centrally manages virus protection mechanisms that automatically update malicious code protection mechanisms (including signature definitions) and prevent non-privileged users from circumventing malicious code protection capabilities.
 
 ### 4.3 Information System Monitoring
-* [Company Name] monitors information systems to detect attacks and indicators of potential attacks of unauthorized local, network, and remote connections in accordance with continuous monitoring and incident response requirements
-* [Company Name] identifies unauthorized use of the information system through deployed intrusion detection systems, intrusion prevention systems, malicious code protection software, scanning tools, audit record monitoring software and network monitoring software
-* [Company Name] deploys monitoring devices strategically within the information system to collect organization-determined essential information and at ad hoc locations within the system to track specific types of transactions of interest to the organization
-* [Company Name] protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion
-* [Company Name] heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information
-* [Company Name] obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
+* [Company Name] monitors information systems to detect attacks and indicators of potential attacks of unauthorized local, network, and remote connections in accordance with continuous monitoring and incident response requirements.
+* [Company Name] identifies unauthorized use of the information system through deployed intrusion detection systems, intrusion prevention systems, malicious code protection software, scanning tools, audit record monitoring software and network monitoring software.
+* [Company Name] deploys monitoring devices strategically within the information system to collect organization-determined essential information and at ad hoc locations within the system to track specific types of transactions of interest to the organization.
+* [Company Name] protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion.
+* [Company Name] heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information.
+* [Company Name] obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations.
 * [Company Name] provides all information system monitoring information to senior information security officers, information system security managers, and information systems security officers as needed and on a continual basis.
 
 ### 4.4 Security Alerts, Advisories and Directives
-* [Company Name] receives information system security alerts/advisories on a regular basis from the US-Cert and other sources such as the National Vulnerability database (NVD)
-* [Company Name] generates internal security alerts, advisories, and directives as deemed necessary and disseminate to senior information security officers, information system security managers, and information systems security officers, systems owners, incident response teams and external agencies including Department of Homeland Security (DHS), and OPM
+* [Company Name] receives information system security alerts/advisories on a regular basis from the US-Cert and other sources such as the National Vulnerability database (NVD).
+* [Company Name] generates internal security alerts, advisories, and directives as deemed necessary and disseminate to senior information security officers, information system security managers, and information systems security officers, systems owners, incident response teams and external agencies including Department of Homeland Security (DHS), and OPM.
 * [Company Name] implements an appropriate action in response to security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
 * [Company Name] employs automated mechanisms to make security alert and advisory information available throughout the organization as appropriate.
 
 ### 4.5 Security Function Verification
-* [System Name] verifies the correct operation of transitional states which include system startup, restart, shutdown, and abort functions
-* [System Name] performs verification of system startup, restart, shutdown, and abort functions upon command by approved users with appropriate privileges in real time
+* [System Name] verifies the correct operation of transitional states which include system startup, restart, shutdown, and abort functions.
+* [System Name] performs verification of system startup, restart, shutdown, and abort functions upon command by approved users with appropriate privileges in real time.
 * [Company Name] notifies senior information security officers, information system security managers, and information systems security officers of failed security verification tests and shuts down or restarts the information system when anomalies are discovered.
 
 ### 4.6 Software, Firmware and Information integrity

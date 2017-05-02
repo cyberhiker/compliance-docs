@@ -33,39 +33,39 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.1 Baseline Configuration
 * [Company Name] develops and maintains documentation on the baseline configuration of the information system to include such things as, but not limited to:
- * Network topology;
- * System architecture;
- * Application, Web and Server components
- * Software standards
-* [Company Name] reviews baseline configuration settings on a continual basis and provide annual updates as required due to federal mandates and compliance standards
-* [Company Name] retains any and all necessary baseline configuration as deemed necessary to support rollback functions and incident response
+  * Network topology;
+  * System architecture;
+  * Application, Web and Server components
+  * Software standards
+* [Company Name] reviews baseline configuration settings on a continual basis and provide annual updates as required due to federal mandates and compliance standards.
+* [Company Name] retains any and all necessary baseline configuration as deemed necessary to support rollback functions and incident response.
 * [Company Name] develops and maintains a list of software programs/applications that are not authorized to execute on the information system, and employs an allow-all, deny-by-exception authorization policy to identify software allowed to execute on the information system.
 
 ### 4.3 Configuration Change Control
 * [Company Name] documents changes to the baseline configuration in the following manner:
- 1. Determines the types of changes to the information system that are configuration controlled
- 2. Changes require security impact analyses conducted on all configuration-controlled changes
- 3. Maintain documentation for approved configuration-controlled changes
- 4. Provides record retention for review of configuration-controlled changes at a minimum of 1 year
- 5. Coordinates and provides oversight for configuration change control activities through tracking and monitoring systems that evaluates configuration changes  through a continuous development lifecycle
+  1. Determines the types of changes to the information system that are configuration controlled
+  2. Changes require security impact analyses conducted on all configuration-controlled changes
+  3. Maintain documentation for approved configuration-controlled changes
+  4. Provides record retention for review of configuration-controlled changes at a minimum of 1 year
+  5. Coordinates and provides oversight for configuration change control activities through tracking and monitoring systems that evaluates configuration changes  through a continuous development lifecycle
 * [Company Name] tests, validates, and documents changes to the information system before implementing the changes on an operational system.
 
 ### 4.4 Security Impact Analysis
 * [Company Name] conducts a thorough security analysis of the proposed change prior to the configuration change being implemented within an operational system. Proposed and defined major changes may include:
- * an increase in the sensitivity or criticality of a system;
- * an increase in threat level;
- * policy change
- * a change in operating system (base platform);
- * a change to security relevant software;
- * installations and upgrades;
- * An increase in interconnection with other systems outside the accreditation boundary;
- * Significant changes in the security requirements that apply to the system.
+  * an increase in the sensitivity or criticality of a system
+  * an increase in threat level
+  * policy change
+  * a change in operating system (base platform)
+  * a change to security relevant software
+  * installations and upgrades
+  * An increase in interconnection with other systems outside the accreditation boundary
+  * Significant changes in the security requirements that apply to the system
 
 ### 4.5 Access Restriction for Change
 * [Company Name] ensures only pre-defined authorized users are allowed to make any changes to either the physical or logical environment that:
- * Defines approval process for access; and
- * Defines and documents access roles;
- * Retains records for express purpose for auditing purposes.
+  * Defines approval process for access; and
+  * Defines and documents access roles;
+  * Retains records for express purpose for auditing purposes.
 
 ### 4.6 Configuration Settings
 * [Company Name] documents the baseline configuration settings such that:

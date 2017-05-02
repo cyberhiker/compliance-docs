@@ -34,9 +34,9 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.1 Security Assessments
 * [Company Name] implements a security assessment plan that:
- * Describes security controls and control enhancements under assessment
- * Defines assessment procedures used to determine security control effectiveness
- * Defines assessment environment, assessment team, and assessment roles and responsibilities.
+  * Describes security controls and control enhancements under assessment
+  * Defines assessment procedures used to determine security control effectiveness
+  * Defines assessment environment, assessment team, and assessment roles and responsibilities.
 * [Company Name] conducts annual assessment to ensure controls are implemented correctly, operating, and producing the desire artifacts.
 * [Company Name] generates a Security Assessment Report and documents the outcome of annual assessment.
 * [Company Name] provides results of assessment, in writing, to authorizing official or authorizing official designated representative.  
@@ -48,24 +48,24 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [Company Name] monitors the information system connections on an ongoing basis, verifying enforcement of security requirements.
 
 ### 4.3 Plan of Action and Milestones
-* [Company Name] establishes a plan of action and milestone for the information system to document the organization’s planned remedial actions to correct weaknesses or deficiencies noted during the assessment of the security controls and to reduce or eliminate known vulnerabilities in the system
+* [Company Name] establishes a plan of action and milestone for the information system to document the organization’s planned remedial actions to correct weaknesses or deficiencies noted during the assessment of the security controls and to reduce or eliminate known vulnerabilities in the system.
 * [Company Name] updates existing plan of action and milestone monthly based on the findings from security controls assessments, security impact analysis and continuous monitoring activities.  
 
 ### 4.4 Security Authorization
-* [Company Name] assigns a senior-level executive or manager to the role of authorizing official for the information system;
-* [Company Name] ensures that the authorizing official authorizes the information system for processing before commencing operations; and
+* [Company Name] assigns a senior-level executive or manager to the role of authorizing official for the information system.
+* [Company Name] ensures that the authorizing official authorizes the information system for processing before commencing operations.
 * [Company Name] updates the security authorization on an annual basis.
 
 ### 4.5 Continuous Monitoring
-* [Company Name] implements a configuration management process for the information system and its constituent components;
-* [Company Name] makes a determination of the security impact of changes to the information system and environment of operations;
-* [Company Name] conducts ongoing security control assessments in accordance with the organizational continuous monitoring strategy; and
+* [Company Name] implements a configuration management process for the information system and its constituent components.
+* [Company Name] makes a determination of the security impact of changes to the information system and environment of operations.
+* [Company Name] conducts ongoing security control assessments in accordance with the organizational continuous monitoring strategy.
 * [Company Name] reports security state of the information system to appropriate organizational officials on an annual basis.
 
 ### 4.6 Penetration Testing
-* [Company Name] employs the use of an independent penetration agent or penetration team to perform penetration testing on its information system or system components
+* [Company Name] employs the use of an independent penetration agent or penetration team to perform penetration testing on its information system or system components.
 * [Company Name] if needed employs authorized red team exercises to simulate attempts by adversaries to compromise organizational information systems in accordance with approved rules of engagement.
 
 ### 4.7 Internal System Connections
-* [Company Name] authorizes internal connections of information system components or classes of components to the information systems
+* [Company Name] authorizes internal connections of information system components or classes of components to the information systems.
 * [Company Name] documents for each internal connection, the interface characteristics, security requirements, and the nature of the information communicated.

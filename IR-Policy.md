@@ -34,9 +34,9 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.1 Incident Response Training
 * [Company Name] provides incident response training to information system users consistent with assigned roles and responsibilities:  
- * Within 60 days of assuming an incident response role or responsibility
- * When required by information system changes
- * Annually thereafter.
+  * Within 60 days of assuming an incident response role or responsibility
+  * When required by information system changes
+  * Annually thereafter
 * [Company Name] incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
 * [Company Name] employs automated mechanisms to provide a more thorough and realistic incident response training environment.
 
@@ -45,7 +45,7 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.3 Incident Handling
 * [Company Name] implements incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery.
-* [Company Name] coordinates incident handling activities with contingency planning activities
+* [Company Name] coordinates incident handling activities with contingency planning activities.
 * [Company Name] incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
 ### 4.4 Incident Monitoring
@@ -53,7 +53,7 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [Company Name] employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.
 
 ### 4.5 Incident Reporting
-* [Company Name] requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period].
+* [Company Name] requires personnel to report suspected security incidents to the organizational incident response capability within [organization-defined time period].
 * [Company Name]report security incident information to United States Computer Emergency Readiness Team (US-CERT) and other federal agencies as required.
 
 ### 4.6 Incident Response Assistance
@@ -62,23 +62,23 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.7 Incident Response Plan
 * [Company Name] develops an incident response plan that:
- * Provides the organization with a roadmap for implementing its incident response capability;
- * Describes the structure and organization of the incident response capability;
- * Provides a high-level approach for how the incident response capability fits into the overall organization;
- * Meets the unique requirements of the organization, which relate to mission, size, structure, and functions;
- * Defines reportable incidents;
- * Provides metrics for measuring the incident response capability within the organization;
- * Defines the resources and management support needed to effectively maintain and mature an incident response capability
- * Reviewed and approved by the [Company Name] Infrastructure Manager and ISSM;
-* [Company Name] distributes copies of the incident response plan to all designated incident response POCs, [Company Name] managers and system owners
-* [Company Name] reviews the incident response plan at least on an annual basis and update the incident response plan to address system/organizational changes or problems encountered during plan implementation, execution, or testing
+  * Provides the organization with a roadmap for implementing its incident response capability;
+  * Describes the structure and organization of the incident response capability;
+  * Provides a high-level approach for how the incident response capability fits into the overall organization;
+  * Meets the unique requirements of the organization, which relate to mission, size, structure, and functions;
+  * Defines reportable incidents;
+  * Provides metrics for measuring the incident response capability within the organization;
+  * Defines the resources and management support needed to effectively maintain and mature an incident response capability
+  * Reviewed and approved by the [Company Name] Infrastructure Manager and ISSM
+* [Company Name] distributes copies of the incident response plan to all designated incident response POCs, [Company Name] managers and system owners.
+* [Company Name] reviews the incident response plan at least on an annual basis and update the incident response plan to address system/organizational changes or problems encountered during plan implementation, execution, or testing.
 * [Company Name] communicates incident response plan changes to all designated incident response POCs and [Company Name] managers and system owners.
-* [Company Name] protects the incident response plan from unauthorized disclosure and modification
+* [Company Name] protects the incident response plan from unauthorized disclosure and modification.
 
 ### 4.8 Information Spillage Response
 * [Company Name] responds to information spills by:
- * Identifying the specific  information involved in the information system contamination
- * Alerting designated incident response  personnel,  system owners , Information system security officers  and other POCs  of the information spill  using methods of communication not associated with the spill
- * Isolating the contaminated information system or system component
- * Eradicating the information from the contaminated information system or component
- * Identifying other information systems or system components that may have been subsequently contaminated
+  * Identifying the specific  information involved in the information system contamination
+  * Alerting designated incident response  personnel,  system owners , Information system security officers  and other POCs  of the information spill  using methods of communication not associated with the spill
+  * Isolating the contaminated information system or system component
+  * Eradicating the information from the contaminated information system or component
+  * Identifying other information systems or system components that may have been subsequently contaminated

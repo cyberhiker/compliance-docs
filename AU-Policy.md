@@ -44,10 +44,10 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.2 Content of Audit Records
 * [System Name] captures sufficient information in audit records to establish what events occurred, the sources of the events, the outcomes of the events, and the identity of any individuals or subjects associated with the event.  This includes:
- * Session, connection, transaction, or activity duration.
- * For client-server transactions, the number of bytes received and bytes sent
- * Additional informational messages to diagnose or identify the event
- * Characteristics that describe or identify the object or resource being acted upon.
+  * Session, connection, transaction, or activity duration.
+  * For client-server transactions, the number of bytes received and bytes sent
+  * Additional informational messages to diagnose or identify the event
+  * Characteristics that describe or identify the object or resource being acted upon.
 
 ### 4.3 Execution of privileged functions
 * [System Name] provides the capability to include additional, more detailed information in the audit records for audit events identified by type, location or subject.
