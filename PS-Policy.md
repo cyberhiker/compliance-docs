@@ -34,8 +34,8 @@ Please see the [Company Name] Governance Policy for further information on Manag
 The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, International Organization for Standards (ISO) and [Company Name] policies and standards.
 
 ## 4.1 Position Categorization
-* [Company Name] shall assign a risk designation to all positions and establishes screening criteria for individuals filling those positions. The organization reviews and revises position risk designations once every two years.
-* Management responsibilities must include ensuring that employees, contractors, and third-party users are properly briefed on their information security roles and responsibilities prior to being granted access to sensitive information or information systems.
+* [Company Name] assigns a risk designation to all positions and establishes screening criteria for individuals filling those positions. The organization reviews and revises position risk designations once every two years.
+* Management responsibilities include ensuring that employees, contractors, and third-party users are properly briefed on their information security roles and responsibilities prior to being granted access to sensitive information or information systems.
 Ensure that employees, contractors, and third-party users are provided with guidelines to state security expectations of their role within the organization.
 * Ensure that employees, contractors, and third-party users conform to the terms and conditions of employment, which includes the organization’s information security policy and appropriate methods of working.
 * Ensure that employees, contractors, and third-party users achieve a level of awareness on security relevant to their roles and responsibilities within the organization
@@ -58,22 +58,22 @@ Ensure that employees, contractors, and third-party users are provided with guid
 * Employee terminations and transfers are reviewed at a planned frequency to verify that termination procedures and/or entitlement changes are conducted properly.
 
 ## 4.4 Access Agreements
-* All employees, contractors, and vendors must sign agreements to safeguard sensitive data prior to accessing [Company Name] information resources. The agreements must include the following:
+* All employees, contractors, and vendors sign agreements to safeguard sensitive data prior to accessing [Company Name] information resources. The agreements include the following:
  * Non-Disclosure Agreement
  * Acceptable Use Policy
  * Access Agreement
  * Code of Conduct Policy
-* [Company Name] completes appropriate access agreements for individuals (employees, contractors, and/or other third-parties) requiring access to organizational information before authorizing access to the company’s physical assets and electronic resources. The agreements shall be signed as part of the new hiring process and engaging third parties.
+* [Company Name] completes appropriate access agreements for individuals (employees, contractors, and/or other third-parties) requiring access to organizational information before authorizing access to the company’s physical assets and electronic resources. The agreements are signed as part of the new hiring process and engaging third parties.
 * [Company Name] retains the agreements above with employee/contractor/user records.
 * [Company Name] reviews and update the agreements at least annually.
 
 ## 4.5 Third-Party Personnel Security
-* [Company Name] shall establish personnel security requirements for third-party providers (e.g., service bureaus, contractors and other organizations providing information system development, information technology services, outsourced applications, network and security management) and monitors provider compliance to ensure adequate security.
+* [Company Name] establishes personnel security requirements for third-party providers (e.g., service bureaus, contractors and other organizations providing information system development, information technology services, outsourced applications, network and security management) and monitors provider compliance to ensure adequate security.
 
 ## 4.6 Personnel Sanctions
-* [Company Name] must employ a formal sanctions process for personnel failing to comply with established information security policies and procedures.
+* [Company Name] employs a formal sanctions process for personnel failing to comply with established information security policies and procedures.
 * The gross negligence or willful disclosure of [Company Name] information can result in prosecution for misdemeanor or felony resulting in fines, imprisonment, civil liability, and/or dismissal. Unauthorized personnel are not allowed to see or obtain sensitive data.
-* [Company Name] must define and implement a process to monitor, identify, and sanction employees, contractors, and vendors who fail to comply with [Company Name] security policies and procedures.
-* [Company Name] must notify the [Company Name] Security Office (SSO) of any incidents of non-compliance with [Company Name] security policies and procedures.
-* The disciplinary process should not be commenced without prior verification that a security breach has occurred.
-* In serious cases of misconduct, the process should allow for instant removal of duties, access rights, privileges, immediate escorting and removal from the site, or termination, if necessary.
+* [Company Name] defines and implements a process to monitor, identify, and sanction employees, contractors, and vendors who fail to comply with [Company Name] security policies and procedures.
+* [Company Name] notifies the [Company Name] Security Office (SSO) of any incidents of non-compliance with [Company Name] security policies and procedures.
+* The disciplinary process is not started without prior verification that a security breach has occurred.
+* In serious cases of misconduct, the process allows for instant removal of duties, access rights, privileges, immediate escorting and removal from the site, or termination, if necessary.

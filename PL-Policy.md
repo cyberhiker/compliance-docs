@@ -27,7 +27,7 @@ Please see the [Company Name] Governance Policy for further information on Manag
 The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, International Organization for Standards (ISO) and [Company Name] policies and standards.
 
 ### 4.1 System Security Plans
-* [Company Name] will create, modify and implement System Security Plans (SSP) that:
+* [Company Name] creates, modifies and implements System Security Plans (SSP) that:
  * Remain consistent with [Company Name] enterprise architecture;
  * Explicitly defines the authorization boundary for information systems;
  * Describes the operational context of the information system in terms of mission and business process;
@@ -37,18 +37,18 @@ The access and use of Information Technology (IT) resources shall be in complian
  * Provides an overview of the security requirements for the systems;
  * Describes the security controls in place or planned for meeting those requirements; including a rationale for the tailoring and supplementation decision;
  * Reviewed and approved by authorizing official or designated representative prior to plan implementation
-* Distributes copies of the security plan and communicates subsequent changes to the plan to information system owners, information system security officers/managers and, authorizing officials and others on a need to know basis
-* [Company Name] must review the system security plans for information systems annually and update system security plans to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments.
-* Protects security plans from unauthorized disclosure and modification.
+* [Company Name] distributes copies of the security plan and communicates subsequent changes to the plan to information system owners, information system security officers/managers and, authorizing officials and others on a need to know basis
+* [Company Name] reviews the system security plans for information systems annually and update system security plans to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments.
+* [Company Name] protects security plans from unauthorized disclosure and modification.
 
 ### 4.2 Rules of Behavior
-* [Company Name] will establish and make readily available to all users the rules that describe their responsibilities and expected behavior with regards to information and information system usage
+* [Company Name] establishes and makes readily available to all users the rules that describe their responsibilities and expected behavior with regards to information and information system usage
 * [Company Name] documents acknowledgment from users indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and information systems.
 * [Company Name] reviews and updates the rules of behavior on an annual basis and requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.
 
 ### 4.3 Information Security Architecture
-[Company Name] develops information security architecture for its information systems that:
-* Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information
-* Describes how the information security architecture is integrated into and supports the enterprise architecture and any information security assumptions about and dependencies on external services
-* Reviews and updates the information security architecture on a periodic basis to reflect updates in the enterprise architecture
-* Ensures that planned information security architecture changes are reflected in system security plans and organizational procurements/acquisitions.
+* [Company Name] develops information security architecture for its information systems that:
+ * Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information
+ * Describes how the information security architecture is integrated into and supports the enterprise architecture and any information security assumptions about and dependencies on external services
+ * Reviews and updates the information security architecture on a periodic basis to reflect updates in the enterprise architecture
+ * Ensures that planned information security architecture changes are reflected in system security plans and organizational procurements/acquisitions.

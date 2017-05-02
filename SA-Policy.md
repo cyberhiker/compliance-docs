@@ -34,18 +34,18 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 #### 4.1 Allocation of Resources
 
-* [Company Name] will implement a mission/business process planning
-* [Company Name] will conduct annual assessment to ensure controls are implemented correctly, operating, and producing the desire artifacts;
-* [Company Name] will generate a Security Assessment Report and document the outcome of [annual] assessment; and
-* [Company Name] will establish a discrete line item for information security in organizational programming and budgeting documentation.  
+* [Company Name] implements a mission/business process planning
+* [Company Name] conducts annual assessment to ensure controls are implemented correctly, operating, and producing the desire artifacts;
+* [Company Name] generates a Security Assessment Report and document the outcome of [annual] assessment; and
+* [Company Name] establishes a discrete line item for information security in organizational programming and budgeting documentation.  
 
 ### 4.2 Life Cycle Support
-* [Company Name] will manage the information system using a system development life cycle methodology that includes information security considerations;
-* [Company Name] will define and document information system security roles and responsibilities throughout the system development life cycle; and
-* [Company Name] will identify individuals having information system security roles and responsibilities.  
+* [Company Name] manages the information system using a system development life cycle methodology that includes information security considerations;
+* [Company Name]defines and document information system security roles and responsibilities throughout the system development life cycle; and
+* [Company Name]identifies individuals having information system security roles and responsibilities.  
 
 ### 4.3 Acquisitions
-* [Company Name] will include the following requirements and/or specifications, explicitly or by reference, in information system acquisition contracts based on an assessment of risk and in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, and standards:
+* [Company Name] includes the following requirements and/or specifications, explicitly or by reference, in information system acquisition contracts based on an assessment of risk and in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, and standards:
   * Security functional requirements and specifications;
   * Security-related documentation requirements; and
   * Development and evaluation-related assurance requirements.
@@ -53,33 +53,33 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [Company Name] requires that each information system component acquired is explicitly assigned to an information system, and that the owner of the system acknowledges this agreement.
 
 ### 4.4 Information System Documentation
-* [Company Name] will develop and maintain administrator documentation for the information system, making it available upon request by authorized personnel, that includes the following:
+* [Company Name] develops and maintains administrator documentation for the information system, making it available upon request by authorized personnel, that includes the following:
   * Secure configuration, installation, and operation of the information system;
   * Effective use and maintenance of security features/functions; and
   * Known vulnerabilities regarding configuration and use of administrative (i.e. privileged) functions.
-* [Company Name] will develop and maintain user documentation for the information system, making it available upon request by authorized personnel, that includes the following:
+* [Company Name] develops and maintains user documentation for the information system, making it available upon request by authorized personnel, that includes the following:
   * User-accessible security features/functions and how to effectively use those security features/functions;
   * Methods for user interactions with the information system; and
   * User responsibilities in maintaining the security of the information and information system.
-* [Company Name] will document attempts to obtain information system documentation when such documentation is either unavailable or nonexistent.
-* [Company Name] will maintain vendor documentation, as required and protected, that describes the functional properties of the security controls employed within the information system with sufficient detail to permit analysis and testing.
-* [Company Name] will maintain vendor documentation, as required and protected, that describes the high-level design of the information system in terms of subsystems and implementation details of the security controls employed within the system with sufficient detail to permit analysis and testing.
+* [Company Name] documents attempts to obtain information system documentation when such documentation is either unavailable or nonexistent.
+* [Company Name] maintains vendor documentation, as required and protected, that describes the functional properties of the security controls employed within the information system with sufficient detail to permit analysis and testing.
+* [Company Name] maintains vendor documentation, as required and protected, that describes the high-level design of the information system in terms of subsystems and implementation details of the security controls employed within the system with sufficient detail to permit analysis and testing.
 
 ### 4.5 Software Usage Restrictions
-* [Company Name] will use software and associated documentation in accordance with contract agreement and copyright laws;
-* [Company Name] will employ a tracking system for software and associated documentation protected by quantity licenses to control copying and distribution; and
-* [Company Name] will document the utilization of peer-to-peer file sharing technology ensuring that it will not be used for unauthorized distribution, display, performance, or reproduction of copyrighted material.  
+* [Company Name] uses software and associated documentation in accordance with contract agreement and copyright laws;
+* [Company Name] employs a tracking system for software and associated documentation protected by quantity licenses to control copying and distribution; and
+* [Company Name] documents the utilization of peer-to-peer file sharing technology ensuring that it will not be used for unauthorized distribution, display, performance, or reproduction of copyrighted material.  
 
 ### 4.6 User-installed Software
-* [Company Name] plans will document what software may or may not be installed; security patches installation, and who is authorized to install such software.
+* [Company Name] documents what software may or may not be installed; security patches installation, and who is authorized to install such software.
 
 ### 4.7 Security Engineering Principles
-* [Company Name] will apply information system security engineering principles in to the specifications, design, development, implementation, and modification of the information system.
+* [Company Name] applies information system security engineering principles in to the specifications, design, development, implementation, and modification of the information system.
 
 ### 4.8 External Information System Services
-* [Company Name] will require external information system providers to comply with [System Name] requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
-* [Company Name] will define and document government oversight and user roles and responsibilities with regards to external information system services
-* [Company Name] will monitor security control compliance by external service providers.  
+* [Company Name] requires external information system providers to comply with [System Name] requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+* [Company Name] defines and document government oversight and user roles and responsibilities with regards to external information system services
+* [Company Name] monitors security control compliance by external service providers.  
 
 ### 4.9 Developer Configuration Management
 * [Company Name] requires that information system developers/integrators:
