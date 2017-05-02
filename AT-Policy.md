@@ -32,14 +32,14 @@ The access and use of Information Technology (IT) resources shall be in complian
 ### 4.2 Security Awareness Training
 * [Company Name] shall provide basic security awareness training to all information system users (including managers, senior executives, and contractors) as part of initial training for new users, when required by system changes, and at least annually thereafter.
 * The security awareness training must include information on recognizing and reporting potential indicators of insider threat.
-* The [Company Name] awareness training program commences with a formal induction process designed to introduce the Acceptable Use Policy and expectations for all personnel before access to information or services is granted. All new employees are required to take and pass on-line quizzes based on the Acceptable Use Policy. The awareness program is consistent, updated and deployed for all employees at least once a year.
+* The [Company Name] awareness training program begins with a formal induction process designed to introduce the Acceptable Use Policy and expectations for all personnel before access to information or services is granted. All new employees are required to take and pass on-line quizzes based on the Acceptable Use Policy. The awareness program is consistent, updated and deployed for all employees at least once a year.
 
 ### 4.3 Role-Based Security Training
-* The organization provides role-based security training to information system users before authorizing access to the information system or performing assigned duties, when required by information system changes, and at least annually thereafter
- * shall design and apply physical protection guidelines and mechanisms for working in secure areas.
- * [Company Name] shall document, maintain and make available operating procedures for all users who need them.
- * [Company Name] shall implement detection, prevention, and recovery controls; including appropriate user awareness procedures; to protect against malicious code.
+* [Company Name] provides role-based security training to information system users before authorizing access to the information system or performing assigned duties, when required by information system changes, and at least annually thereafter
+ * [Company Name] designs and applies physical protection guidelines and mechanisms for working in secure areas.
+ * [Company Name] documents, maintains, and makes available operating procedures for all users who need them.
+ * [Company Name] implements detection, prevention, and recovery controls; including appropriate user awareness procedures; to protect against malicious code.
 
 ### 4.4 Security Training Records
-* [Company Name] shall document both basic and role-based security awareness training activities.
-* Individual security training records must be maintained for the entire term of employment and updated on an annual basis for refresher training as required.
+* [Company Name] documents both basic and role-based security awareness training activities.
+* Individual security training records are maintained for the entire term of employment and updated on an annual basis for refresher training as required.

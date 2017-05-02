@@ -33,32 +33,35 @@ Please see the [Company Name] Governance Policy for further information on Manag
 The access and use of Information Technology (IT) resources shall be in compliance with applicable Federal Information Processing Standards (FIPS) and National Institute of Standards and Technology (NIST) Special Publications, International Organization for Standards (ISO) and [Company Name] policies and standards.
 
 ### 4.1 Incident Response Training
-* [Company Name] must provide incident response training to information system users consistent with assigned roles and responsibilities: Within 60 * days of assuming an incident response role or responsibility; when required by information system changes; and annually thereafter.
-* [Company Name] will incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
-* [Company Name] will employ automated mechanisms to provide a more thorough and realistic incident response training environment.
+* [Company Name] provides incident response training to information system users consistent with assigned roles and responsibilities:  
+ * Within 60 days of assuming an incident response role or responsibility
+ * When required by information system changes
+ * Annually thereafter.
+* [Company Name] incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
+* [Company Name] employs automated mechanisms to provide a more thorough and realistic incident response training environment.
 
 ### 4.2 Incident Response Testing
-* [Company Name] must test the incident response capability for its information systems annually using (i.e. walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises) to determine the incident response effectiveness and documents the results.
+* [Company Name] tests the incident response capability for its information systems annually using (i.e. walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises) to determine the incident response effectiveness and documents the results.
 
 ### 4.3 Incident Handling
-* [Company Name] must implement incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
-* Coordinate incident handling activities with contingency planning activities
-* Incorporate lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
+* [Company Name] implements incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery.
+* [Company Name] coordinates incident handling activities with contingency planning activities
+* [Company Name] incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
 ### 4.4 Incident Monitoring
-* [Company Name] must track and document information system security incidents maintaining records about each incident, the status of the incident, and other pertinent information necessary for forensics, evaluating incident details, trends, and handling.
-* [Company Name] must employ automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.
+* [Company Name] tracks and documents information system security incidents maintaining records about each incident, the status of the incident, and other pertinent information necessary for forensics, evaluating incident details, trends, and handling.
+* [Company Name] employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.
 
 ### 4.5 Incident Reporting
-* [Company Name] requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and
-* Report security incident information to United States Computer Emergency Readiness Team (US-CERT) and other federal agencies as required.
+* [Company Name] requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period].
+* [Company Name]report security incident information to United States Computer Emergency Readiness Team (US-CERT) and other federal agencies as required.
 
 ### 4.6 Incident Response Assistance
-* [Company Name] must provide the capability of an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.
-* Incident response support resources provided by [Company Name] can include, for example, help desks, assistance groups, and access to forensics services, when required.
+* [Company Name] provides the capability of an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.
+* Incident response support resources provided by [Company Name] includes help desks, assistance groups, and access to forensics services, when required.
 
 ### 4.7 Incident Response Plan
-* [Company Name] must develop an incident response plan that:
+* [Company Name] develops an incident response plan that:
  * Provides the organization with a roadmap for implementing its incident response capability;
  * Describes the structure and organization of the incident response capability;
  * Provides a high-level approach for how the incident response capability fits into the overall organization;
@@ -67,10 +70,10 @@ The access and use of Information Technology (IT) resources shall be in complian
  * Provides metrics for measuring the incident response capability within the organization;
  * Defines the resources and management support needed to effectively maintain and mature an incident response capability
  * Reviewed and approved by the [Company Name] Infrastructure Manager and ISSM;
-* Distribute copies of the incident response plan to all designated incident response POCs, [Company Name] managers and system owners
-* Review the incident response plan at least on an annual basis and update the incident response plan to address system/organizational changes or problems encountered during plan implementation, execution, or testing
-* Communicate incident response plan changes to all designated incident response POCs  and [Company Name] managers and system owners
-Protects the incident response plan from unauthorized disclosure and modification
+* [Company Name] distributes copies of the incident response plan to all designated incident response POCs, [Company Name] managers and system owners
+* [Company Name] reviews the incident response plan at least on an annual basis and update the incident response plan to address system/organizational changes or problems encountered during plan implementation, execution, or testing
+* [Company Name] communicates incident response plan changes to all designated incident response POCs and [Company Name] managers and system owners.
+* [Company Name] protects the incident response plan from unauthorized disclosure and modification
 
 ### 4.8 Information Spillage Response
 * [Company Name] responds to information spills by:

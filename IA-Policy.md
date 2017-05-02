@@ -35,7 +35,7 @@ The access and use of Information Technology (IT) resources shall be in complian
 * All users are required to have unique system accounts created for use on [System Name] including individual, group, system, application accounts
 * [Company Name] establishes conditions for group membership based on business needs and roles
 * [Company Name] identifies authorized users of the information system and specify access privileges
-* All Access must be granted based on: (i) a valid access authorization; (ii) intended system usage; and (iii) other attributes as required by the [Company Name] missions/business functions
+* All Access is granted based on: (i) a valid access authorization; (ii) intended system usage; and (iii) other attributes as required by the [Company Name] missions/business functions
 * All system accounts are reviewed at a minimum on an annual basis with periodic reviews when necessary for auditing purposes.
 
 ### 4.2 Device Identification and Authentication
@@ -53,8 +53,8 @@ The access and use of Information Technology (IT) resources shall be in complian
 
 ### 4.4 Authenticator Management
 * [Company Name] manages information system authenticators (e.g., tokens, PKI certificates, biometrics, passwords, and key cards) by:
-* Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator
-* Establishing initial authenticator content for authenticators defined by the [Company Name]
+ * Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator
+ * Establishing initial authenticator content for authenticators defined by the [Company Name]
  * Minimum length 20 characters
  * At least  1 upper case character
  * At least  1 lower case character
