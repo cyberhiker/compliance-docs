@@ -1,7 +1,7 @@
-# 18F Governance Policy
+# Governance Policy
 
 ## 1. Purpose of Policy
-The 18F organization developed a number of Policies over time, and as required for business purposes, which guide and govern the actions of 18F employees and contractors in conducting any business.  This policy governs the process for initiating, drafting, revising, and approving 18F policies and procedures.  
+The [Company Name] developed a number of Policies over time, and as required for business purposes, which guide and govern the actions of 18F employees and contractors in conducting any business.  This policy governs the process for initiating, drafting, revising, and approving 18F policies and procedures.  
 
 ## 2. Scope of Policy
 This policy applies to all 18F employees and contractors working in or with the 18F for Public Sector organization. Failure to comply with this policy may result in disciplinary action, up to and including termination of employment and possible civil and/or criminal penalties under the applicable U.S. laws and regulations.
@@ -42,6 +42,6 @@ Deliberate violations of these policies shall be addressed as per the 18F Code o
 ## 5. Roles and Responsibilities
 |Roles                   |                      Responsibilities|
 |------------------------|--------------------------------------|
-|18f Content Owner       |In addition to drafting and finalizing policies revisions per Sections 4-5 above, the Content Owner is responsible for:  a) Reviewing his or her assigned Corporate Policy documents annually, in conjunction with any significant organizational changes that apply, or more frequently as needed.   b) Developing any additional documents required to communicate content changes to employees affected by the policy|
+|[Company Name] Content Owner       |In addition to drafting and finalizing policies revisions per Sections 4-5 above, the Content Owner is responsible for:  a) Reviewing his or her assigned Corporate Policy documents annually, in conjunction with any significant organizational changes that apply, or more frequently as needed.   b) Developing any additional documents required to communicate content changes to employees affected by the policy|
 |Senior Director         |Ensuring the Policy is approved, implemented and communicated.|
 |Director of Compliance  |Owner of the Policy. Ensuring the Policy meets the compliance requirements.|
