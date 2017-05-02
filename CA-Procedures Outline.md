@@ -1,9 +1,10 @@
-# [Company Name] AT Procedures Outline
+# [Company Name] CA Procedures Outline
 ## 1. Purpose of Procedures
 Procedures are designed to support the requirements from the [Company Name] Policies.  Procedures ensure actions are consistent across the whole team, ensure all steps are completed, and are used as training material for new members.
 
 ## 2. Scope of Procedures
 These Procedures are to be used in support of the [System Name].
+
 This procedure is written to include the following:
 * Security Assessments
 * System Interconnections
@@ -11,10 +12,11 @@ This procedure is written to include the following:
 * Continuous Monitoring
 * Penetration Testing
 * Internal System Connections
+
 Please see the [Company Name] Security Assessment and Authorization Policy for further information on the policy requirements.
 
 ## 3. Procedures
-###3.1.	Security Assessments
+### 3.1.	Security Assessments
 #### 3.1.1.	Preparation
 #### 3.1.2.	Assessment
 ##### 3.1.2.1.	3PAO

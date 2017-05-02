@@ -5,7 +5,7 @@ Security Policies and Procedures
 
 This repository contains documents originally from 18F.  To support their customer, 18F made major changes to their security policies and procedures.  I forked this to go back to an earlier version with more generic policies tied directly to NIST controls.
 
-The Procedures documents here are outlines of some of the types of procedures expected.  Every company will have their own procedures, even for the same systems.  Procedures should be kept in a repository that this the most accessible to the users.  This document could simply be a list of links to the appropriate locations.
+The Procedures documents here are outlines of some of the types of procedures expected.  These are intended to give the document writer a place to start with questions for the teams that implement these procedures.  Every company will have their own procedures, even for the same systems.  Procedures should be kept in a repository that is the most accessible to the users.  This document could simply be a list of links to the appropriate locations.
 
 ## Public domain
 

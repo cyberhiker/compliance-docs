@@ -17,8 +17,8 @@ This procedure is written to include the following:
 * Security Training Records
 
 Please see the [Company Name] Security Awareness and Training Policy for further information on the policy requirements.
-## 3.	Procedures
-### 3.1.	Security Awareness Training
+## 3. Procedures
+### 3.1. Security Awareness Training
 [Company Name] employees complete basic security awareness training as part of initial training for new users, before they are allowed access to the [System Name].  [Company Name] employees also complete the training when required by information system changes, and at least annually thereafter.
 
 #### 3.1.1.	Security Training Development

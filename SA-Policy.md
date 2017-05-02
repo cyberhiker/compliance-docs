@@ -66,8 +66,8 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [Company Name] maintains vendor documentation, as required and protected, that describes the high-level design of the information system in terms of subsystems and implementation details of the security controls employed within the system with sufficient detail to permit analysis and testing.
 
 ### 4.5 Software Usage Restrictions
-* [Company Name] uses software and associated documentation in accordance with contract agreement and copyright laws;
-* [Company Name] employs a tracking system for software and associated documentation protected by quantity licenses to control copying and distribution; and
+* [Company Name] uses software and associated documentation in accordance with contract agreement and copyright laws.
+* [Company Name] employs a tracking system for software and associated documentation protected by quantity licenses to control copying and distribution.
 * [Company Name] documents the utilization of peer-to-peer file sharing technology ensuring that it will not be used for unauthorized distribution, display, performance, or reproduction of copyrighted material.  
 
 ### 4.6 User-installed Software
@@ -77,17 +77,17 @@ The access and use of Information Technology (IT) resources shall be in complian
 * [Company Name] applies information system security engineering principles in to the specifications, design, development, implementation, and modification of the information system.
 
 ### 4.8 External Information System Services
-* [Company Name] requires external information system providers to comply with [System Name] requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+* [Company Name] requires external information system providers to comply with [System Name] requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
 * [Company Name] defines and document government oversight and user roles and responsibilities with regards to external information system services
 * [Company Name] monitors security control compliance by external service providers.  
 
 ### 4.9 Developer Configuration Management
 * [Company Name] requires that information system developers/integrators:
-  * Perform configuration management during information system design, development, implementation, and operation;
-  * Manage and control changes to the information system;
-  * Implement only organization-approved changes;
-  * Document approved changes to the information system; and
-  * Track security flaws and flaw resolution.
+ * Perform configuration management during information system design, development, implementation, and operation;
+ * Manage and control changes to the information system;
+ * Implement only organization-approved changes;
+ * Document approved changes to the information system; and
+ * Track security flaws and flaw resolution.
 
 ### 4.10 Developer Security Testing
 * [Company Name] requires that information system developers/integrators, in consultation with associated security personnel;  
