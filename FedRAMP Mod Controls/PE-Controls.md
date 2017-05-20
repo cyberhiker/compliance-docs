@@ -1,12 +1,12 @@
 #13.11 Physical and Environmental Protection (PE)
 ## PE-1 Physical and Environmental Protection Policy and Procedures (L) (M)
-The organization:
-  (a)	Develops, documents, and disseminates to [_Assignment: organization-defined personnel or roles_]:
-    (1)	A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    (2)	Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; and
-  (b)	Reviews and updates the current:
-    (1)	Physical and environmental protection policy [_FedRAMP Assignment: at least every three (3) years_]; and
-    (2)	Physical and environmental protection procedures [_FedRAMP Assignment: at least annually_].
+The organization:  
+  (a)	Develops, documents, and disseminates to [_Assignment: organization-defined personnel or roles_]:  
+    (1)	A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and  
+    (2)	Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; and  
+  (b)	Reviews and updates the current:  
+    (1)	Physical and environmental protection policy [_FedRAMP Assignment: at least every three (3) years_]; and  
+    (2)	Physical and environmental protection procedures [_FedRAMP Assignment: at least annually_].  
 
 ## PE-2 Physical Access Authorizations (L) (M)
 The organization:
@@ -28,7 +28,7 @@ The organization:
   (g)	Changes combinations and keys [_FedRAMP Assignment: at least annually_] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
 
 ## PE-4 Access Control for Transmission Medium (M) (H)
-The organization controls physical access to [_Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [_Assignment: organization-defined security safeguards_].
+The organization controls physical access to [_Assignment: organization-defined information system distribution and transmission lines_] within organizational facilities using [_Assignment: organization-defined security safeguards_].
 
 ## PE-5 Access Control for Output Devices (M) (H)
 The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output.
@@ -54,10 +54,13 @@ The organization:
   (a)	Provides the capability of shutting off power to the information system or individual system components in emergency situations;
   (b)	Places emergency shutoff switches or devices in [_Assignment: organization-defined location by information system or system component_] to facilitate safe and easy access for personnel; and
   (c)	Protects emergency power shutoff capability from unauthorized activation.
+
 ## PE-11 Emergency Power (M) (H)
 The organization provides a short-term uninterruptible power supply to facilitate [_Selection (one or more): an orderly shutdown of the information system; transition of the information system to long-term alternate power_] in the event of a primary power source loss.  
+
 ## PE-12 Emergency Lighting (L) (M) (H)
 The organization employs and maintains automatic emergency lighting for the information system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility.
+
 ## PE-13 Fire Protection (L) (M) (H)
 The organization employs and maintains fire suppression and detection devices/systems for the information system that are supported by an independent energy source.
 ### PE-13 (2) Control Enhancement (M) (H)
