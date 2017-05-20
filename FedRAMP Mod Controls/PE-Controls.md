@@ -1,4 +1,4 @@
-#13.11 Physical and Environmental Protection (PE)
+# 13.11 Physical and Environmental Protection (PE)
 ## PE-1 Physical and Environmental Protection Policy and Procedures (L) (M)
 The organization:  
     (a)	Develops, documents, and disseminates to [_Assignment: organization-defined personnel or roles_]:  
@@ -9,11 +9,11 @@ The organization:
         (2)	Physical and environmental protection procedures [_FedRAMP Assignment: at least annually_].  
 
 ## PE-2 Physical Access Authorizations (L) (M)
-The organization:
-    (a)	Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
-    (b)	Issues authorization credentials for facility access;
-    (c)	Reviews the access list detailing authorized facility access by individuals [_FedRAMP Assignment: at least annually_]; and
-    (d)	Removes individuals from the facility access list when access is no longer required.
+The organization:   
+    (a)	Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;  
+    (b)	Issues authorization credentials for facility access;  
+    (c)	Reviews the access list detailing authorized facility access by individuals [_FedRAMP Assignment: at least annually_]; and  
+    (d)	Removes individuals from the facility access list when access is no longer required.  
 
 ## PE-3 Physical Access Control (L) (M) (H)
 The organization:
