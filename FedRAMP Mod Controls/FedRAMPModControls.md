@@ -1,4 +1,4 @@
-13.1 Access Control (AC)  {#access-control-ac .ListParagraph}
+13.1 Access Control (AC) 
 -------------------------
 
 ### AC-1 Access Control Policy and Procedures Requirements (L) (M)
@@ -141,7 +141,7 @@ members leave the group.
 **AC-2 (10) Additional FedRAMP Requirements and Guidance:** Required if
 shared/group accounts are deployed.
 
-#### AC-2 (12) Control Enhancement (M) 
+#### AC-2 (12) Control Enhancement (M)
 
 The organization:
 
@@ -186,7 +186,7 @@ individuals*\];
 \(c) Defines information system access authorizations to support
 separation of duties.
 
-**AC-5 Additional FedRAMP Requirements and Guidance: **
+**AC-5 Additional FedRAMP Requirements and Guidance:**
 
 **Guidance**: CSPs have the option to provide a separation of duties
 matrix as an attachment to the SSP. Directions for attaching the
@@ -510,7 +510,7 @@ information is not included; and
 for nonpublic information \[*FedRAMP Assignment: at least quarterly*\]
 and removes such information, if discovered.
 
-13.2 Awareness and Training (AT)  {#awareness-and-training-at .ListParagraph}
+13.2 Awareness and Training (AT)
 ---------------------------------
 
 ### AT-1 Security Awareness and Training Policy and Procedures (L) (M)
@@ -565,7 +565,7 @@ assigned duties;
 
 \(c) \[*FedRAMP Assignment: at least annually*\] thereafter.
 
-#### AT-4 Security Training Records (L) (M) 
+#### AT-4 Security Training Records (L) (M)
 
 The organization:
 
@@ -576,7 +576,7 @@ specific information system security training; and
 \(b) Retains individual training records for \[*FedRAMP Assignment: at
 least one year*\].
 
-13.3 Audit and Accountability (AU) {#audit-and-accountability-au .ListParagraph}
+13.3 Audit and Accountability (AU)
 ----------------------------------
 
 ### AU-1 Audit and Accountability Policy and Procedures (L) (M)
@@ -638,7 +638,7 @@ The organization reviews and updates the audited events \[*FedRAMP
 Assignment: annually or whenever there is a change in the threat
 environment*\].
 
-**AU-2 (3) Additional FedRAMP Requirements and Guidance: **
+**AU-2 (3) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance**: Annually or whenever changes in the threat environment are
 communicated to the service provider by the JAB/AO.
@@ -657,7 +657,7 @@ The information system generates audit records containing the following
 additional information: \[*Assignment: organization-defined additional,
 more detailed information*\].
 
-**AU-3 (1) Additional FedRAMP Requirements and Guidance: **
+**AU-3 (1) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines audit record types
 \[*FedRAMP Assignment: session, connection, transaction, or activity
@@ -687,7 +687,7 @@ the event of an audit processing failure; and
 \(b) Takes the following additional actions: \[*FedRAMP Assignment:
 organization-defined actions to be taken; (overwrite oldest record)*\].
 
-### AU-6 Audit Review, Analysis, and Reporting (L) (M) (H) 
+### AU-6 Audit Review, Analysis, and Reporting (L) (M) (H)
 
 The organization:
 
@@ -698,7 +698,7 @@ organization-defined inappropriate or unusual activity*\]; and
 \(b) Reports findings to \[*Assignment: organization-defined personnel or
 roles*\].
 
-**AU-6 Additional FedRAMP Requirements and Guidance: **
+**AU-6 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** Coordination between service provider and consumer
 shall be documented and accepted by the Authorizing Official. In
@@ -735,7 +735,7 @@ The information system provides the capability to process audit records
 for events of interest based on \[*Assignment: organization-defined
 audit fields within audit records*\].
 
-### AU-8 Time Stamps (L) (M) (H) 
+### AU-8 Time Stamps (L) (M) (H)
 
 The information system:
 
@@ -759,7 +759,7 @@ Assignment: authoritative time source:*
 source when the time difference is greater than \[*Assignment:
 organization-defined time period*\].
 
-**AU-8 (1) Additional FedRAMP Requirements and Guidance: **
+**AU-8 (1) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: The service provider selects primary and secondary time
 servers used by the NIST Internet time service. The secondary server is
@@ -819,7 +819,7 @@ least ninety (90) days*\] to provide support for after-the-fact
 investigations of security incidents and to meet regulatory and
 organizational information retention requirements.
 
-**AU-11 Additional FedRAMP Requirements and Guidance: **
+**AU-11 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: The service provider retains audit records on-line for
 at least ninety days and further preserves audit records off-line for a
@@ -840,7 +840,7 @@ of the information system; and
 \(c) Generates audit records for the events defined in AU-2 d. with the
 content defined in AU-3.
 
-13.4 Security Assessment and Authorization (CA) {#security-assessment-and-authorization-ca .ListParagraph}
+13.4 Security Assessment and Authorization (CA)
 -----------------------------------------------
 
 ### CA-1 Certification, Authorization, Security Assessment Policy and Procedures (L) (M)
@@ -914,7 +914,7 @@ vulnerability scanning; malicious user testing; insider threat
 assessment; performance/load testing;* \[*Assignment:
 organization-defined other forms of security assessment*\]\].
 
-**CA-2 (2) Additional FedRAMP Requirements and Guidance: **
+**CA-2 (2) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: To include *'announced'*, *'vulnerability scanning’ to
 occur at least annually*.
@@ -942,8 +942,7 @@ and
 \(c) Reviews and updates Interconnection Security Agreements \[*FedRAMP
 Assignment: at least annually and on input from FedRAMP*\].
 
-[[[]{#_Toc464715208 .anchor}]{#_Toc437345258 .anchor}]{#_Ref437345123
-.anchor}Table 13‑3 CA-3 Authorized Connections
+Table 13‑3 CA-3 Authorized Connections
 
 #### CA-3 (3) Control Enhancement (M) (H)
 
@@ -965,12 +964,12 @@ deny-all, permit by exception*\] policy for allowing \[*Assignment:
 organization-defined information systems*\] to connect to external
 information systems.
 
-**CA-3 (5) Additional FedRAMP Requirements and Guidance: **
+**CA-3 (5) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance**: For JAB Authorization, CSPs shall include details of this
 control in their Architecture Briefing
 
-### CA-5 Plan of Action and Milestones (L) (M) (H) 
+### CA-5 Plan of Action and Milestones (L) (M) (H)
 
 The organization:
 
@@ -985,7 +984,7 @@ Assignment: at least monthly*\] based on the findings from security
 controls assessments, security impact analyses, and continuous
 monitoring activities.
 
-**CA-5 Additional FedRAMP Requirements and Guidance: **
+**CA-5 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: Plan Of Action & Milestones (POA&M)s must be provided
 at least monthly.
@@ -1004,7 +1003,7 @@ system for processing before commencing operations; and
 accordance with OMB A-130 requirements or when a significant change
 occurs*\].
 
-**CA-6c Additional FedRAMP Requirements and Guidance: **
+**CA-6c Additional FedRAMP Requirements and Guidance:**
 
 **Guidance**: Significant change is defined in NIST Special Publication
 800-37 Revision 1, Appendix F ([SP
@@ -1013,7 +1012,7 @@ The service provider describes the types of changes to the information
 system or the environment of operations that would impact the risk
 posture. The types of changes are approved and accepted by the JAB/AO.
 
-### CA-7 Continuous Monitoring (L) (M) (H) 
+### CA-7 Continuous Monitoring (L) (M) (H)
 
 The organization develops a continuous monitoring strategy and
 implements a continuous monitoring program that includes:
@@ -1089,7 +1088,7 @@ components*\] to the information system; and
 characteristics, security requirements, and the nature of the
 information communicated.
 
-13.5 Configuration Management (CM) {#configuration-management-cm .ListParagraph}
+13.5 Configuration Management (CM)
 ----------------------------------
 
 ### CM-1 Configuration Management Policies and Procedures (L) (M)
@@ -1138,7 +1137,7 @@ The organization employs automated mechanisms to maintain an up-to-date,
 complete, accurate, and readily available baseline configuration of the
 information system.
 
-#### CM-2 (3) Control Enhancement (M) 
+#### CM-2 (3) Control Enhancement (M)
 
 The organization retains \[*Assignment: organization-defined previous
 versions of baseline configurations of the information system*\] to
@@ -1295,7 +1294,7 @@ capabilities; and
 protocols, and/or services \[*FedRAMP Assignment: United States
 Government Configuration Baseline (USGCB)*\]
 
-**CM-7 Additional FedRAMP Requirements and Guidance: **
+**CM-7 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: The service provider shall use the Center for Internet
 Security guidelines (Level 1) to establish list of prohibited or
@@ -1429,7 +1428,7 @@ disclosure and modification.
 
 ### CM-10 Software Usage Restrictions (L) (M) (H)
 
-[]{#_Toc383429702 .anchor}The organization:
+The organization:
 
 \(a) Uses software and associated documentation in accordance with
 contract agreements and copyright laws;
@@ -1461,7 +1460,7 @@ organization-defined methods*\]; and
 \(c) Monitors policy compliance \[*FedRAMP* *Assignment: Continuously
 (via CM-7 (5))*\].
 
-13.6 Contingency Planning (CP) {#contingency-planning-cp .ListParagraph}
+13.6 Contingency Planning (CP)
 ------------------------------
 
 ### CP-1 Contingency Planning Policy and Procedures (L) (M)
@@ -1770,7 +1769,7 @@ failure.
 The information system implements transaction recovery for systems that
 are transaction-based.
 
-13.7 Identification and Authentication (IA) {#identification-and-authentication-ia .ListParagraph}
+13.7 Identification and Authentication (IA)
 -------------------------------------------
 
 ### IA-1 Identification and Authentication Policy and Procedures (L) (M)
@@ -1837,7 +1836,7 @@ Certification, or NSA approval*\].
 
 \*National Information Assurance Partnership (NIAP)
 
-**Additional FedRAMP Requirements and Guidance: **
+**Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** PIV = separate device. Please refer to NIST SP 800-157
 Guidelines for Derived Personal Identity Verification (PIV) Credentials.
@@ -1861,7 +1860,7 @@ The information system uniquely identifies and authenticates
 before establishing a \[*Selection (one or more): local; remote;
 network*\] connection.
 
-### IA-4 Identifier Management (L) (M) 
+### IA-4 Identifier Management (L) (M)
 
 The organization manages information system identifiers for users and
 devices by:
@@ -1882,7 +1881,7 @@ two (2) years*\]; and
 \(e) Disabling the identifier after \[*FedRAMP Assignment: ninety days
 for user identifiers (see additional requirements and guidance)*\]
 
-**IA-4e Additional FedRAMP Requirements and Guidance: **
+**IA-4e Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines the time period of
 inactivity for device identifiers.
@@ -1988,7 +1987,7 @@ The organization employs automated tools to determine if password
 authenticators are sufficiently strong to satisfy \[*Assignment:
 organization-defined requirements*\].
 
-**IA-5(4) Additional FedRAMP Requirements and Guidance: **
+**IA-5(4) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** If automated mechanisms which enforce password
 authenticator strength at creation are not used, automated mechanisms
@@ -2050,7 +2049,7 @@ to accept third-party credentials.
 
 The information system conforms to FICAM-issued profiles.
 
-13.8 Incident Response (IR) {#incident-response-ir .ListParagraph}
+13.8 Incident Response (IR)
 ---------------------------
 
 ### IR-1 Incident Response Policy and Procedures (L) (M)
@@ -2096,7 +2095,7 @@ information system \[*FedRAMP Assignment: at least annually*\] using
 Guidance*\] to determine the incident response effectiveness and
 documents the results.
 
-**IR-3 Additional FedRAMP Requirements and Guidance: **
+**IR-3 Additional FedRAMP Requirements and Guidance:**
 
 **Requirements:** The service provider defines tests and/or exercises in
 accordance with NIST Special Publication 800-61 (as amended). For JAB
@@ -2124,7 +2123,7 @@ activities; and
 activities into incident response procedures, training, and
 testing/exercises, and implements the resulting changes accordingly.
 
-**IR-4 Additional FedRAMP Requirements and Guidance: **
+**IR-4 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider ensures that individuals
 conducting incident handling meet personnel security requirements
@@ -2153,7 +2152,7 @@ SP800-61 (as amended)*\]; and
 \(b) Reports security incident information to \[*Assignment:
 organization-defined authorities*\].
 
-**IR-6 Additional FedRAMP Requirements and Guidance **
+**IR-6 Additional FedRAMP Requirements and Guidance**
 
 **Requirement:** Report security incident information according to
 FedRAMP Incident Communications Procedure.
@@ -2218,7 +2217,7 @@ personnel or roles*\];
 \(b) Distributes copies of the incident response plan to \[*FedRAMP
 Assignment: see additional FedRAMP Requirements and Guidance*\].
 
-**IR-8(b) Additional FedRAMP Requirements and Guidance: **
+**IR-8(b) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines a list of incident
 response personnel (identified by name and/or by role) and
@@ -2235,7 +2234,7 @@ or testing;
 \(e) Communicates incident response plan changes to \[*FedRAMP
 Assignment: see additional FedRAMP Requirements and Guidance*\].
 
-**IR-8(e) Additional FedRAMP Requirements and Guidance: **
+**IR-8(e) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines a list of incident
 response personnel (identified by name and/or by role) and
@@ -2276,7 +2275,7 @@ or roles*\] with responsibility for responding to information spills.
 The organization provides information spillage response training
 \[*Assignment: organization- defined frequency*\].
 
-#### IR-9 (3) Control Enhancement (M) (H) 
+#### IR-9 (3) Control Enhancement (M) (H)
 
 The organization implements \[*Assignment: organization-defined
 procedures*\] to ensure that organizational personnel impacted by
@@ -2289,7 +2288,7 @@ The organization employs \[*Assignment: organization-defined security
 safeguards*\] for personnel exposed to information not within assigned
 access authorizations.
 
-13.9 Maintenance (MA) {#maintenance-ma .ListParagraph}
+13.9 Maintenance (MA)
 ---------------------
 
 ### MA-1 System Maintenance Policy and Procedures (L) (M)
@@ -2441,7 +2440,7 @@ secured; and
 an information system component cannot be sanitized, removed, or
 disconnected from the system.
 
-**MA-5 (1) Additional FedRAMP Requirements and Guidance: **
+**MA-5 (1) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** Only MA-5 (1) (a) (1) is required by FedRAMP
 
@@ -2451,7 +2450,7 @@ The organization obtains maintenance support and/or spare parts for
 \[*Assignment: organization-defined information system components*\]
 within \[*Assignment: organization-defined time period*\] of failure.
 
-13.10 Media Protection (MP) {#media-protection-mp .ListParagraph}
+13.10 Media Protection (MP)
 ---------------------------
 
 ### MP-1 Media Protection Policy and Procedures (L) (M)
@@ -2494,7 +2493,7 @@ of the information; and
 marking as long as the media remain within \[*Assignment:
 organization-defined controlled areas*\].
 
-**MP-3(b) Additional FedRAMP Requirements and Guidance: **
+**MP-3(b) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** Second parameter in MP-3(b)-2 is not applicable.
 
@@ -2507,7 +2506,7 @@ types of digital and non-digital media with sensitive information*\]\]
 within \[*FedRAMP Assignment: see additional FedRAMP requirements and
 guidance*\]; and
 
-**MP-4a Additional FedRAMP Requirements and Guidance: **
+**MP-4a Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines controlled areas within
 facilities where the information and information system reside.
@@ -2525,7 +2524,7 @@ using \[*FedRAMP Assignment:* *for digital media, encryption using a
 FIPS 140-2 validated encryption module; for non-digital media, secured
 in locked container*\];
 
-**MP-5a Additional FedRAMP Requirements and Guidance: **
+**MP-5a Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider defines security measures to
 protect digital and non-digital media in transport. The security
@@ -2546,7 +2545,7 @@ The organization employs cryptographic mechanisms to protect the
 confidentiality and integrity of information stored on digital media
 during transport outside of controlled areas.
 
-### MP-6 Media Sanitization and Disposal (L) (M) 
+### MP-6 Media Sanitization and Disposal (L) (M)
 
 The organization:
 
@@ -2560,13 +2559,13 @@ organizational standards and policies; and
 commensurate with the classification or classification of the
 information.
 
-#### MP-6 (2) Control Enhancement (M) 
+#### MP-6 (2) Control Enhancement (M)
 
 The organization tests sanitization equipment and procedures \[*FedRAMP
 Assignment: at least annually*\] to verify that the intended
 sanitization is being achieved.
 
-**MP-6(2) Additional FedRAMP Requirements and Guidance: **
+**MP-6(2) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** Equipment and procedures may be tested or evaluated for
 effectiveness.
@@ -2585,7 +2584,7 @@ The organization prohibits the use of portable storage devices in
 organizational information systems when such devices have no
 identifiable owner.
 
-13.11 Physical and Environmental Protection (PE) {#physical-and-environmental-protection-pe .ListParagraph}
+13.11 Physical and Environmental Protection (PE)
 ------------------------------------------------
 
 ### PE-1 Physical and Environmental Protection Policy and Procedures (L) (M)
@@ -2611,7 +2610,7 @@ at least every three (3) years*\]; and
 \(2) Physical and environmental protection procedures \[*FedRAMP
 Assignment: at least annually*\].
 
-### PE-2 Physical Access Authorizations (L) (M) 
+### PE-2 Physical Access Authorizations (L) (M)
 
 The organization:
 
@@ -2803,7 +2802,7 @@ alternate work sites; and
 \(c) Provides a means for employees to communicate with information
 security personnel in case of security incidents or problems.
 
-13.12 Planning (PL) {#planning-pl .ListParagraph}
+13.12 Planning (PL)
 -------------------
 
 ### PL-1 Security Planning Policy and Procedures (L) (M)
@@ -2937,7 +2936,7 @@ PL-8 (b) Additional FedRAMP Requirements and Guidance:
 reflected in the security plan, the security Concept of Operations
 (CONOPS), and organizational procurements/acquisitions.
 
-13.13 Personnel Security (PS) {#personnel-security-ps .ListParagraph}
+13.13 Personnel Security (PS)
 -----------------------------
 
 ### PS-1 Personnel Security Policy and Procedures (L) (M)
@@ -3024,7 +3023,7 @@ formerly controlled by terminated individual; and
 \(f) Notifies \[*Assignment: organization-defined personnel or roles\]*
 within \[*Assignment: organization-defined time period*\].
 
-### PS-5 Personnel Transfer (L) (M) 
+### PS-5 Personnel Transfer (L) (M)
 
 The organization:
 
@@ -3084,7 +3083,7 @@ within \[*FedRAMP Assignment: same day*\]; and
 
 \(e) Monitors provider compliance.
 
-### PS-8 Personnel Sanctions (L) (M) 
+### PS-8 Personnel Sanctions (L) (M)
 
 The organization:
 
@@ -3096,7 +3095,7 @@ within \[*Assignment: organization-defined time period*\] when a formal
 employee sanctions process is initiated, identifying the individual
 sanctioned and the reason for the sanction.
 
-13.14 Risk Assessment (RA) {#risk-assessment-ra .ListParagraph}
+13.14 Risk Assessment (RA)
 --------------------------
 
 ### RA-1 Risk Assessment Policy and Procedures (L) (M)
@@ -3135,7 +3134,7 @@ rationale) in the security plan for the information system; and
 \(c) Ensures the security categorization decision is reviewed and
 approved by the AO or authorizing official designated representative.
 
-### RA-3 Risk Assessment (L) (M) 
+### RA-3 Risk Assessment (L) (M)
 
 The organization:
 
@@ -3161,7 +3160,7 @@ environment of operation (including the identification of new threats
 and vulnerabilities), or other conditions that may impact the security
 state of the system.
 
-**RA-3 Additional FedRAMP Requirements and Guidance: **
+**RA-3 Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** Significant change is defined in NIST Special Publication
 800-37 Revision 1, Appendix F
@@ -3179,7 +3178,7 @@ system/infrastructure; monthly web applications and databases*\] and
 when new vulnerabilities potentially affecting the system/applications
 are identified and reported;
 
-**RA-5 (a) Additional FedRAMP Requirements and Guidance: **
+**RA-5 (a) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** An accredited independent assessor scans operating
 systems/infrastructure, web applications, and databases once annually.
@@ -3210,7 +3209,7 @@ organization-defined personnel or roles*\] to help eliminate similar
 vulnerabilities in other information systems (i.e., systemic weaknesses
 or deficiencies).
 
-**RA-5 (e) Additional FedRAMP Requirements and Guidance: **
+**RA-5 (e) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** To include the Risk Executive; for JAB authorizations
 to include FedRAMP ISSOs.
@@ -3245,7 +3244,7 @@ The organization employs automated mechanisms to compare the results of
 vulnerability scans over time to determine trends in information system
 vulnerabilities.
 
-**RA-5(6) Additional FedRAMP Requirements and Guidance: **
+**RA-5(6) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** Include in Continuous Monitoring ISSO digest/report to
 JAB/AO.
@@ -3256,7 +3255,7 @@ The organization reviews historic audit logs to determine if a
 vulnerability identified in the information system has been previously
 exploited.
 
-**RA-5(8) Additional FedRAMP Requirements and Guidance: **
+**RA-5(8) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** This enhancement is required for all high vulnerability
 scan findings.
@@ -3265,7 +3264,7 @@ scan findings.
 critical, the intent of the control is based around NIST's definition of
 high vulnerability.
 
-13.15 System and Services Acquisition (SA) {#system-and-services-acquisition-sa .ListParagraph}
+13.15 System and Services Acquisition (SA)
 ------------------------------------------
 
 ### SA-1 System and Services Acquisition Policy and Procedures (L) (M)
@@ -3325,12 +3324,12 @@ process into system development life cycle activities.
 
 ### SA-4 Acquisitions Process (L) (M) (H)
 
-[]{#_Toc383444686 .anchor}The organization includes the following
-requirements, descriptions, and criteria, explicitly or by reference, in
-the acquisition contract for the information system, system component,
-or information system service in accordance with applicable federal
-laws, Executive Orders, directives, policies, regulations, standards,
-guidelines, and organizational mission/business needs:
+The organization includes the following requirements, descriptions, and
+criteria, explicitly or by reference, in the acquisition contract for
+the information system, system component, or information system service
+in accordance with applicable federal laws, Executive Orders,
+directives, policies, regulations, standards, guidelines, and
+organizational mission/business needs:
 
 \(a) Security functional requirements;
 
@@ -3347,7 +3346,7 @@ environment in which the system is intended to operate; and
 
 \(g) Acceptance criteria.
 
-**Additional FedRAMP Requirements and Guidance: **
+**Additional FedRAMP Requirements and Guidance:**
 
 **Guidance**: The use of Common Criteria (ISO/IEC 15408) evaluated
 products is strongly preferred.\
@@ -3378,7 +3377,7 @@ the continuous monitoring of security control effectiveness that
 contains \[*FedRAMP Assignment: at least the minimum requirement as
 defined in control CA-7*\].
 
-**SA-4 (8) Additional FedRAMP Requirements and Guidance: **
+**SA-4 (8) Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** CSP must use the same security standards regardless of
 where the system component or information system service is acquired.
@@ -3396,7 +3395,7 @@ The organization employs only information technology products on the
 FIPS 201-approved products list for Personal Identity Verification (PIV)
 capability implemented within organizational information systems.
 
-### SA-5 Information System Documentation (L) (M) 
+### SA-5 Information System Documentation (L) (M)
 
 The organization:
 
@@ -3466,7 +3465,7 @@ external service providers on an ongoing basis.
 Provider (CSP) Documents&gt; Continuous Monitoring Strategy Guide\
 [https://www.FedRAMP.gov/resources/documents](https://www.fedramp.gov/resources/documents)
 
-#### SA-9 (1) Control Enhancement (M) (H) 
+#### SA-9 (1) Control Enhancement (M) (H)
 
 The organization:
 
@@ -3526,7 +3525,7 @@ the potential security impacts of such changes; and
 component, or service and report findings to \[*Assignment:
 organization-defined personnel*\].
 
-**SA-10 (e) Additional FedRAMP Requirements and Guidance: **
+**SA-10 (e) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** For JAB authorizations, track security flaws and flaw
 resolution within the system, component, or service and report findings
@@ -3563,7 +3562,7 @@ system component, or information system service to employ static code
 analysis tools to identify common flaws and document the results of the
 analysis.
 
-**SA-11 (1) Additional FedRAMP Requirements and Guidance: **
+**SA-11 (1) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The service provider documents in the Continuous
 Monitoring Plan, how newly developed code for the information system is
@@ -3583,7 +3582,7 @@ system component, or information system service to employ dynamic code
 analysis tools to identify common flaws and document the results of the
 analysis.
 
-13.16 System and Communications Protection (SC)  {#system-and-communications-protection-sc .ListParagraph}
+13.16 System and Communications Protection (SC)
 ------------------------------------------------
 
 ### SC-1 System and Communications Protection Policy and Procedures (L) (M)
@@ -3693,13 +3692,13 @@ internal communications traffic*\] to \[*Assignment:
 organization-defined external networks*\] through authenticated proxy
 servers at managed interfaces.
 
-#### SC-7 (12) Control Enhancement (M) 
+#### SC-7 (12) Control Enhancement (M)
 
 The organization implements \[*Assignment: organization-defined
 host-based boundary protection mechanisms*\] at \[*Assignment:
 organization-defined information system components*\].
 
-#### SC-7 (13) Control Enhancement (M) 
+#### SC-7 (13) Control Enhancement (M)
 
 The organization isolates \[*FedRAMP* *Assignment: See SC-7 (13)
 additional FedRAMP Requirements and Guidance*\] from other internal
@@ -3747,7 +3746,7 @@ cryptography employed within the information system in accordance with
 \[*Assignment: organization-defined requirements for key generation,
 distribution, storage, access, and destruction*\].
 
-**SC-12 Additional FedRAMP Requirements and Guidance: **
+**SC-12 Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** Federally approved and validated cryptography.
 
@@ -3783,13 +3782,13 @@ the following exceptions:\[*FedRAMP Assignment: no exceptions*\] and
 \(b) Provides an explicit indication of use to users physically present
 at the devices.
 
-**SC-15 Additional FedRAMP Requirements and Guidance: **
+**SC-15 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement:** The information system provides disablement (instead of
 physical disconnect) of collaborative computing devices in a manner that
 supports ease of use.
 
-**SC-15 Additional FedRAMP Requirements and Guidance: **
+**SC-15 Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: The information system provides disablement (instead of
 physical disconnect) of collaborative computing devices in a manner that
@@ -3862,7 +3861,7 @@ The information system protects the \[*FedRAMP* *Selection:
 confidentiality AND integrity\]*\] of \[*Assignment:
 organization-defined information at rest*\].
 
-**SC-28 Additional FedRAMP Requirements and Guidance: **
+**SC-28 Additional FedRAMP Requirements and Guidance:**
 
 **Guidance:** The organization supports the capability to use
 cryptographic mechanisms to protect information at rest.
@@ -3879,7 +3878,7 @@ organization-defined information system components*\]
 The information system maintains a separate execution domain for each
 executing process.
 
-13.17 System and Information Integrity (SI) {#system-and-information-integrity-si .ListParagraph}
+13.17 System and Information Integrity (SI)
 -------------------------------------------
 
 ### SI-1 System and Information Integrity Policy and Procedures (L) (M)
@@ -4163,7 +4162,7 @@ system and information output from the system in accordance with
 applicable federal laws, Executive Orders, directives, policies,
 regulations, standards, and operational requirements.
 
-### SI-16 Memory Protection (M) (H) 
+### SI-16 Memory Protection (M) (H)
 
 The information system implements \[*Assignment: organization-defined
 fail-safe procedures*\] to protect its memory from unauthorized code
