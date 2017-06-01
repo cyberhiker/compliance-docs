@@ -13,7 +13,7 @@ responsibilities, management commitment, coordination among
 organizational entities, and compliance; and
 
 \(2) Procedures to facilitate the implementation of the access control
-policy and associated access controls; and
+policy and associated access controls; and 
 
 \(b) Reviews and updates the current:
 
