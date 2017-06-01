@@ -87,7 +87,7 @@ than 30 days for temporary and emergency account types*\].
 The information system automatically disables inactive accounts after
 \[*FedRAMP Assignment: ninety (90) days for user accounts*\].
 
-**AC-2 (3) Additional FedRAMP Requirements and Guidance: **
+**AC-2 (3) Additional FedRAMP Requirements and Guidance:**
 
 **Requirement**: The service provider defines the time period for
 non-user accounts (e.g., accounts associated with devices). The time
