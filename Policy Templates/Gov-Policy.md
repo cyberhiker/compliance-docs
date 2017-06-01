@@ -1,7 +1,7 @@
 # Governance Policy
 
 ## 1. Purpose of Policy
-The [Company Name] developed a number of Policies over time, and as required for business purposes, which guide and govern the actions of [Company Name] employees and contractors in conducting any business.  This policy governs the process for initiating, drafting, revising, and approving [Company Name] policies and procedures.  
+The [Company Name] developed a number of Policies over time, and as required for business purposes, which guide and govern the actions of [Company Name] employees and contractors in conducting any business.  This policy governs the process for initiating, drafting, revising, and approving [Company Name] policies and procedures.
 
 ## 2. Scope of Policy
 This policy applies to all [Company Name] employees and contractors working in or with the [Company Name] for Public Sector organization. Failure to comply with this policy may result in disciplinary action, up to and including termination of employment and possible civil and/or criminal penalties under the applicable U.S. laws and regulations.
@@ -25,6 +25,7 @@ This policy applies to all [Company Name] employees and contractors working in o
 * Policies should be reviewed whenever changes in the business environment or in applicable legislation necessitate, but no less than annually. Revisions to existing policies may be initiated by the Oversight Executive and/or Content Owner.
 
 ### 5.2 Approval
+Any responsible parties in a policy must review and approve before it is sent to the Policy Committee.
 After the proposed new policy or policy revisions are submitted to the Policy Committee, the Policy Committee will review the draft and provide comments to the Content Owner. The Content Owner will then finalize the policy taking into account the Policy Committee's input.
 The Oversight Executive approves the policy.
 
