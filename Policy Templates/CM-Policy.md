@@ -12,7 +12,7 @@ This policy is written to include the following
 * Baseline Configuration
 * Configuration Change Control
 * Security Impact Analysis
-* Assess Restrictions for Change
+* Access Restrictions for Change
 * Configuration Settings
 * Least Functionality
 * Information System Component Inventory
