@@ -20,7 +20,7 @@ This policy is written and includes the following:
 * Information system backup
 * Information system  recovery and reconstitution
 
-Please see the [Company Name] Governance Policy for further information on Management Commitment, Compliance and Enforcement, Review & Update processes, and Penalties.
+Please see the [Company Name] [Governance Policy](https://github.com/ScaleSec/compliance-docs/blob/P%26P-master/Policy%20Templates/Gov-Policy.md#governance-policy) for further information on Management Commitment, Compliance and Enforcement, Review & Update processes, and Penalties.
 
 ## 3. Roles and Responsibilities
 |Roles                  |Responsibilities|
