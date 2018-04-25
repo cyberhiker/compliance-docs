@@ -1,4 +1,4 @@
-# [Company Name] Access control Policy
+# [Company Name] Access Control Policy
 
 ## 1. Purpose of Policy
 Access to [Company Name] computing resources is granted in a manner that carefully balances restrictions designed to prevent unauthorized access against the need to provide unhindered access to informational assets.
